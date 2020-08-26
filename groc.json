@@ -1,0 +1,192 @@
+[
+        {
+            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
+            "description": "1 Kg",
+            "price": "40",
+            "chipsid": r1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg"
+        },
+        {
+            "name": "Sabut Black Urad Dal (Urad Kaali Dal / Black Gram Lentil/ Kale Udid)",
+            "description": "500 gm",
+            "price": "60",
+            "chipsid": r2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011711048242.jpg"
+        },
+        {
+            "name": "Chitra Rajma",
+            "description": "500 gm",
+            "price": "55",
+            "chipsid": r3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011911089276.jpg"
+        },
+        {
+            "name": "Rice",
+            "description": "1 Kg",
+            "price": "90",
+            "chipsid": r4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011907101728.jpg"
+        },
+        
+        {
+            "name": "Patanjali Mutli Grain Dalia",
+            "description": "500 gm",
+            "price": "35",
+            "chipsid": r5,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046263.jpg"
+        },
+        {
+            "name": "Chana Barik",
+            "description": "500 gm",
+            "price": "38",
+            "chipsid": r6,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022504.jpg"
+        },
+        {
+            "name": "Kabuli Chana (White Chole / Chhole)",
+            "description": "500 gm",
+            "price": "60",
+            "chipsid": r7,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022519.jpg"
+        },
+	{
+            "name": "Shakti Bhog Pure & Fresh Whole Wheat Atta",
+            "description": "10 Kg",
+            "price": "330",
+            "chipsid": r8,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027537.jpg"
+        },
+        {
+            "name": "Aashirvaad Whole Wheat Atta",
+            "description": "10 Kg",
+            "price": "340",
+            "chipsid": r9,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000219.jpg"
+        },
+        {
+            "name": "Urad Chilka Dal",
+            "description": "500 gm",
+            "price": "50",
+            "chipsid": r10,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022896.jpg"
+        },	
+        {
+            "name": "Mother's Recipe Ginger & Garlic Paste",
+            "description": "200 gm",
+            "price": "50",
+            "chipsid": r11,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046112.jpg"
+        },
+	{
+            "name": "Tata Iodised Salt",
+            "description": "1 Kg",
+            "price": "19",
+            "chipsid": r12,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg"
+        },
+        {
+            "name": "Basmati Rice",
+            "description": "1 kg",
+            "price": "90",
+            "chipsid": r13,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/Basmati-rice-1.jpg"
+        },	
+        {
+            "name": "Fortune Biryani Special Basmati Rice",
+            "description": "1 Kg",
+            "price": "120",
+            "chipsid": r14,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701043710.jpg"
+        },
+	{
+            "name": "Daawat Brown Basmati Rice",
+            "description": " kg",
+            "price": "140",
+            "chipsid": r15,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805049946.jpg"
+        },
+        {
+            "name": "Fortune Everyday Basmati Rice",
+            "description": "1 kg",
+            "price": "125",
+            "chipsid": r16,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701043714.jpg"
+        },
+	{
+            "name": "Patanjali Brown Basmati Rice",
+            "description": "1 Kg",
+            "price": "110",
+            "chipsid": r17,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803048787.jpg"
+        },        
+        {
+            "name": "Fortune Soya Chunks",
+            "description": "200 gm",
+            "price": "40",
+            "chipsid": r18,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011912090868.jpg"
+        },
+        {
+            "name": "Pan Maida",
+            "description": "500 gm",
+            "price": "25",
+            "chipsid": r19,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050369.jpg"
+        },	
+	{
+            "name": "Pan Sooji",
+            "description": "500 gm",
+            "price": "30",
+            "chipsid": r20,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050367.jpg"
+        },
+        {
+            "name": "Poha",
+            "description": "500 gm",
+            "price": "40",
+            "chipsid": r21,
+            "cimg": ""
+        },
+	{
+            "name": "Chana Dal",
+            "description": "500 gm",
+            "price": "40",
+            "chipsid": r22,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022512.jpg"
+        },
+	{
+            "name": "Moong Dal Barik",
+            "description": "500 gm",
+            "price": "60",
+            "chipsid": r23,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022747.jpg"
+        },
+	 {
+            "name": "Moong Chilka Dal (Split Green Gram\ Green Split Moong Dal)",
+            "description": "500 gm",
+            "price": "50",
+            "chipsid": r24,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022742.jpg"
+        },	
+        {
+            "name": "Toor Dal (Arhar Dal)",
+            "description": "500 gm",
+            "price": "50",
+            "chipsid": r25,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70050021686.jpg"
+        },
+	{
+            "name": "Masoor Dal (Pink Lentils)",
+            "description": "500 gm",
+            "price": "42",
+            "chipsid": r26,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022717.jpg"
+        },        
+	{
+            "name": "Mix Dal",
+            "description": "500 gm",
+            "price": "50",
+            "chipsid": r27,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011812053187.jpg"
+        }					
+    ]
