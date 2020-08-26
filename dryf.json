@@ -1,0 +1,135 @@
+[
+        {
+            "name": "Haldiram Classic Dryfruit Patisa",
+            "description": "400 gm",
+            "price": "220",
+            "chipsid": d1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/6002001021240.jpg"
+        },
+        {
+            "name": "Jewel Farmer Thai Trail Mix",
+            "description": "200 gm",
+            "price": "495",
+            "chipsid": d2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011912091078.jpg"
+        },
+        {
+            "name": "Jewel Farmer Seeds and Berries",
+            "description": "250 gm",
+            "price": "495",
+            "chipsid": d3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011912091077.jpg"
+        },
+        {
+            "name": "Jewel Farmer Fitmix",
+            "description": "250 gm",
+            "price": "540",
+            "chipsid": d4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049387.jpg"
+        },
+        {
+            "name": "Jewel Farmer Roasted Nutmix",
+            "description": "200 gm",
+            "price": "495",
+            "chipsid": d5,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011910092607.jpg"
+        },
+        {
+            "name": "Magic Nuts Kishmish",
+            "description": "200 gm",
+            "price": "110",
+            "chipsid": d6,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011810051969.jpg"
+        },
+        {
+            "name": "Naturoz Abjosh Munakka",
+            "description": "200 gm",
+            "price": "165",
+            "chipsid": d7,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049264.jpg"
+        },
+        {
+            "name": "Naturoz California Almonds",
+            "description": "200 gm",
+            "price": "195",
+            "chipsid": d8,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049016.jpg"
+        },
+        {
+            "name": "Jabsons Bar-B-Que Roasted Peanuts",
+            "description": "140 gm",
+            "price": "70",
+            "chipsid": d9,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050397.jpg"
+        },
+        {
+            "name": "Naturoz California Walnut Kernels",
+            "description": "200 gm",
+            "price": "365",
+            "chipsid": d10,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049003.jpg"
+        },
+        {
+            "name": "Jewel Farmer Nutmix",
+            "description": "250 gm",
+            "price": "480",
+            "chipsid": d11,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803048795.jpg"
+        },
+        {
+            "name": "Jewel Farmer Hazelnuts",
+            "description": "200 gm",
+            "price": "525",
+            "chipsid": d12,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049244.jpg"
+        },
+	{
+            "name": "Cashew Nut(Kaju)",
+            "description": "250 gm",
+            "price": "270",
+            "chipsid": d13,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022501.jpg"
+        },
+        {
+            "name": "Almond Nuts (Badam)",
+            "description": "250 gm",
+            "price": "210",
+            "chipsid": d14,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022432.jpg"
+        },
+        {
+            "name": "Apis Royal Zahidi Premium Dates",
+            "description": "500 gm",
+            "price": "85",
+            "chipsid": d15,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011907100357.jpg"
+        },
+        {
+            "name": "Dried Dates",
+            "description": "1 kg",
+            "price": "290",
+            "chipsid": d16,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022579.jpg"
+        },
+        {
+            "name": "Peanuts(Shengdana/Groundnut/Mungfali)",
+            "description": "1 kg",
+            "price": "160",
+            "chipsid": d17,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022777.jpg"
+        },
+        {
+            "name": "Peanuts(Shengdana/Groundnut/Mungfali)",
+            "description": "500 gm",
+            "price": "80",
+            "chipsid": d18,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022777.jpg"
+        },
+        {
+            "name": "Peanuts(Shengdana/Groundnut/Mungfali)",
+            "description": "250 gm",
+            "price": "40",
+            "chipsid": d19,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022777.jpg"
+        }
+    ]
