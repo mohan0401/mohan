@@ -1,0 +1,114 @@
+[
+        {
+            "name": "Patanjali Cow Ghee",
+            "description": "1 Kg",
+            "price": "565",
+            "chipsid": o1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037676.jpg"
+        },
+        {
+            "name": "Amul Pure Ghee",
+            "description": "1 Kg",
+            "price": "520",
+            "chipsid": o2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027697.jpg"
+        },
+        {
+            "name": "Fortune Premium Kachi Ghani Mustard Oil",
+            "description": "1 Liter",
+            "price": "130",
+            "chipsid": o3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023774.jpg"
+        },        
+        {
+            "name": "Madhusudan Desi Ghee",
+            "description": "1 Liter",
+            "price": "400",
+           "chipsid": o4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037227.jpg"
+        },
+        {
+            "name": "Fortune Refind Soyabean Oil",
+            "description": "1 Liter",
+            "price": "110",
+            "chipsid": o5,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023778.jpg"
+        },        
+        {
+            "name": "Saffola Gold Oil",
+            "description": "1 Liter",
+            "price": "143",
+            "chipsid": o6,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000279.jpg"
+        },
+        {
+            "name": "Saffola Gold Oil",
+            "description": "5 Liter",
+            "price": "800",
+            "chipsid": o7,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000281.jpg"
+        },	
+        {
+            "name": "Saffola Active Oil",
+            "description": "1 Liter",
+            "price": "135",
+            "chipsid": o8,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000960.jpg"
+        },
+	{
+            "name": "Fortune Soya Health Refined Soyabean Oil",
+            "description": "5 Ltr",
+            "price": "600",
+            "chipsid": o9,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011851136380.jpg"
+        },
+        {
+            "name": "Amul Pure Ghee",
+            "description": "500 ml",
+            "price": "250",
+            "chipsid": o10,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027696.jpg"
+        },
+	{
+            "name": "Patanjali Mustard Oil",
+            "description": "1 Liter",
+            "price": "140",
+            "chipsid": o11,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701007453.jpg"
+        },
+        {
+            "name": "Patanjali Mustard Oil",
+            "description": "5 liter",
+            "price": "700",
+            "chipsid": o12,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046663.jpg"
+        },
+        {
+            "name": "Patanjali Rice Bran Oil",
+            "description": "1 Liter",
+            "price": "125",
+            "chipsid": o13,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049141.jpg"
+        },
+	{
+            "name": "Rath Vanaspati Dalda",
+            "description": "1 Liter",
+            "price": "120",
+            "chipsid": o14,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046305.jpg"
+        },
+	 {
+            "name": "Bail Kolhu Kachi Ghani Mustard Oil",
+            "description": "5 Liter",
+            "price": "670",
+            "chipsid": o15,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70028391538381.jpg"
+        },
+	{
+            "name": "Patanjali Extra Virgin Groundnut Oil",
+            "description": "1 Liter",
+            "price": "130",
+            "chipsid": o16,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011911089122.jpg"
+        }			
+    ]
