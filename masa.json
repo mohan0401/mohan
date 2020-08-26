@@ -246,12 +246,5 @@
             "price": "75",
             "chipsid": m35,
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027862.jpg"
-        },
-        {
-            "name": "Maggi Ae Magic Masala",
-            "description": "30 gm",
-            "price": "22",
-            "chipsid": m36,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037626.jpg"
-        }				
+        }			
     ]
