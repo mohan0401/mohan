@@ -147,17 +147,10 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023340.jpg"
         },
         {
-            "name": "Sunfeast Marie Light Oats Biscuits",
-            "description": "75 gm",
-            "price": "10",
-            "chipsid": i22,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049524.jpg"
-        },
-        {
             "name": "Britania Tiger Glucose Biscuits",
             "description": "70 gm",
             "price": "5",
-            "chipsid": i23,
+            "chipsid": i22,
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037281.jpg"
         }
     ]
