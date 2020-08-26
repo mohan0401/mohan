@@ -28,24 +28,17 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000062.jpg"
         },
         {
-            "name": "Lays- Plain",
-            "description": "50 gm",
-            "price": "20",
-            "chipsid": c5,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000064.jpg"
-        },
-        {
             "name": "Lays- Magic Mashala Party Pack",
             "description": "95 gm",
             "price": "35",
-            "chipsid": c6,
+            "chipsid": c5,
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037624.jpg"
         },
         {
             "name": "ACE- Golden Sizzle Party Pack",
             "description": "40 gm",
             "price": "10",
-            "chipsid": c7,
+            "chipsid": c6,
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050144.jpg"
         }
     ]
