@@ -1,0 +1,303 @@
+[
+        {
+            "name": "Surf Excel Matic Front Load Detergent Powder",
+            "description": "1 kg",
+            "price": "245",
+            "chipsid": h1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701001023_2.jpg"
+        },
+        {
+            "name": "Vim Dishwash Bar",
+            "description": "3 X 200gm",
+            "price": "38",
+            "chipsid": h2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701029398.jpg"
+        },
+        {
+            "name": "Rin Detergent Bar",
+            "description": "185 gm",
+            "price": "10",
+            "chipsid": h3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701005791_2.jpg"
+        },
+        {
+            "name": "Vanish Oxi Action Stain Remover Liquid",
+            "description": "800 ml",
+            "price": "195",
+            "chipsid": h4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049178.jpg"
+        },
+        {
+            "name": "Surf Excel Matic Top Load Detergent Powder",
+            "description": "1 kg",
+            "price": "220",
+            "chipsid": h5,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701000786_2.jpg"
+        },
+        {
+            "name": "Surf Excel Detergent Bar",
+            "description": "100 gm",
+            "price": "10",
+            "chipsid": h6,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701005780_2.jpg"
+        },
+        {
+            "name": "Rin Ala Fabric Whitener",
+            "description": "500 ml",
+            "price": "60",
+            "chipsid": h7,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701002818_2.jpg"
+        },
+        {
+            "name": "Rin Big Detergent Bar",
+            "description": "4 X 250 gm",
+            "price": "62",
+            "chipsid": h8,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701004336_2.jpg"
+        },
+        {
+            "name": "Scotch Brite Heavy Duty Scrub Pad",
+            "description": "1 pcs",
+            "price": "40",
+            "chipsid": h9,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701033217.jpg"
+        },
+        {
+            "name": "Exo Dish Shine Dishwash Bar",
+            "description": "150 gm",
+            "price": "10",
+            "chipsid": h10,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023722.jpg"
+        },
+        {
+            "name": "Kissan Fresh Tomato Ketchup",
+            "description": "450 gm",
+            "price": "48",
+            "chipsid": h11,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011711047981_2.jpg"
+        },
+        {
+            "name": "Vim Anti Smell Bar",
+            "description": "3X200 gm",
+            "price": "30",
+            "chipsid": h12,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011707047566.jpg"
+        },
+	{
+            "name": "Nip Nature & Shakti Dishwash Bar",
+            "description": "4 X 125 gm",
+            "price": "30",
+            "chipsid": h13,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011911089350.jpg"
+        },
+        {
+            "name": "Vim Lemon Dishwash Gel",
+            "description": "750 ml",
+            "price": "150",
+            "chipsid": h14,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701005900_2.jpg"
+        },
+        {
+            "name": "Scotch Brite S Shape Scrub Pad",
+            "description": "1 Pcs",
+            "price": "15",
+            "chipsid": h15,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046311.jpg"
+        },
+        {
+            "name": "Patanjali Lemon And Wood Ash Super Dishwash Bar",
+            "description": "175 gm",
+            "price": "10",
+            "chipsid": h16,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011802048567.jpg"
+        },
+        {
+            "name": "Comfort After Wash Lily Fresh Fabric Conditioner",
+            "description": "200 ml",
+            "price": "54",
+            "chipsid": h17,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701031414_2.jpg"
+        },
+        {
+            "name": "Kiwi Brown Colour Instant Liquid Shoe Polish",
+            "description": "75 ml",
+            "price": "72",
+            "chipsid": h18,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701033693.jpg"
+        },
+        {
+            "name": "Ghadi Machine Wash Detergent Powder",
+            "description": "1 kg",
+            "price": "81",
+            "chipsid": h19,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011912090893.jpg"
+        },
+	{
+            "name": "Vim Lemon Dishwash Gel",
+            "description": "500 ml",
+            "price": "99",
+            "chipsid": h20,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701010917_2.jpg"
+        },
+        {
+            "name": "Saffola Masala Peppy Tomato Oats",
+            "description": "40 gm",
+            "price": "14",
+            "chipsid": h21,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024588.jpg"
+        },
+        {
+            "name": "Ujala Supreme Fabric Whitener",
+            "description": "250 ml",
+            "price": "60",
+            "chipsid": h22,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701004589.jpg"
+        },
+	{
+            "name": "Vim Lemon Dishwash Gel",
+            "description": "500 ml",
+            "price": "100",
+            "chipsid": h23,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701002808_2.jpg"
+        },
+        {
+            "name": "Tops Mixed Fruit Exotic Jam",
+            "description": "500 gm",
+            "price": "130",
+            "chipsid": h24,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037758.jpg"
+        },
+	{
+            "name": "Scotch Brite Heavy Duty Scrub Pad",
+            "description": "1 Pcs",
+            "price": "40",
+            "chipsid": h25,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701033217.jpg"
+        },
+        {
+            "name": "Harpic Power Plus Toilet Cleaner",
+            "description": "1 Liter",
+            "price": "150",
+            "chipsid": h26,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701005370.jpg"
+        },
+        {
+            "name": "Lizol Jasmine Disinfectant Floor Cleaner",
+            "description": "500 ml",
+            "price": "82",
+            "chipsid": h27,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701004311.jpg"
+        },
+	{
+            "name": "Ezee Liquid Detergent",
+            "description": "200 gm",
+            "price": "47",
+            "chipsid": h28,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046659.jpg"
+        },
+        {
+            "name": "Ghadi Detergent Powder",
+            "description": "1 kg",
+            "price": "53",
+            "chipsid": h29,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050028.jpg"
+        },
+	{
+            "name": "Kiwi 2 In 1 Shoe Brush",
+            "description": "1 pcs",
+            "price": "75",
+            "chipsid": h30,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701028004.jpg"
+        },
+        {
+            "name": "Tide Plus Jasmine And Rose Detergent Powder",
+            "description": "500 gm",
+            "price": "56",
+            "chipsid": h31,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003565.jpg"
+        },
+	{
+            "name": "Ariel Brilliant Cleaning In 1 Wash Detergent Powder",
+            "description": "500 gm",
+            "price": "105",
+            "chipsid": h32,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803048916.jpg"
+        },
+        {
+            "name": "Rin Detergent Powder",
+            "description": "120 gm",
+            "price": "10",
+            "chipsid": h33,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/8005570130005_2.jpg"
+        },
+	{
+            "name": "Patanjali Herbs Detergent Powder",
+            "description": "2 kg",
+            "price": "90",
+            "chipsid": h34,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046436.jpg"
+        },
+        {
+            "name": "Tide Plus Extra Power Lemon And Mint Detergent Powder",
+            "description": "1 kg",
+            "price": "85",
+            "chipsid": h35,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050168.jpg"
+        },
+	{
+            "name": "Kiwi 2 In 1 Shoe Brush",
+            "description": "1 pcs",
+            "price": "75",
+            "chipsid": h36,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701028004.jpg"
+        },
+        {
+            "name": "Tide Plus Jasmine And Rose Detergent Powder",
+            "description": "500 gm",
+            "price": "56",
+            "chipsid": h37,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003565.jpg"
+        },
+	{
+            "name": "Fena Rose And Chandan Detergent Powder",
+            "description": "4 kg",
+            "price": "225",
+            "chipsid": h38,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803048959.jpg"
+        },
+        {
+            "name": "Rin Advanced Detergent Powder",
+            "description": "2 kg",
+            "price": "168",
+            "chipsid": h39,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/8005570130005_2.jpg"
+        },
+	{
+            "name": "Wheel Active Blue Detergent Bar",
+            "description": "190 gm",
+            "price": "10",
+            "chipsid": h40,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/8002001021210.jpg"
+        },
+        {
+            "name": "Scotch Brite Stainless Steel Scrub",
+            "description": "1 Pcs",
+            "price": "30",
+            "chipsid": h41,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701020161.jpg"
+        },
+	{
+            "name": "Ghadi Detergent Soap",
+            "description": "105 gm",
+            "price": "5",
+            "chipsid": h42,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701028247.jpg"
+        },
+        {
+            "name": "Colin Glass And House Hold Cleaner",
+            "description": "500 ml",
+            "price": "85",
+            "chipsid": h43,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011909098147.jpg"
+        }
+    ]
