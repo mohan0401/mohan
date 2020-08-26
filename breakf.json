@@ -159,13 +159,6 @@
             "price": "50",
             "chipsid": f23,
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037538.jpg"
-        },
-        {
-            "name": "Tops Mixed Fruit Exotic Jam",
-            "description": "500 gm",
-            "price": "130",
-            "chipsid": f24,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037758.jpg"
         }
 
     ]
