@@ -1,0 +1,163 @@
+[
+        {
+            "name": "Good Night- Godrej",
+            "description": "1 Pc.",
+            "price": "89",
+            "chipsid": p1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70030830339105.jpg"
+        },
+        {
+            "name": "Odonil-Nature-Joyful Lavender",
+            "description": "10 gm",
+            "price": "48",
+            "chipsid": p2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049715.jpg"
+        },
+        {
+            "name": "Odonil-Nature-Orchid Dew",
+            "description": "10 gm",
+            "price": "47",
+            "chipsid": p3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019695.jpg"
+        },
+        {
+            "name": "Odonil-Citrus Air Freshner",
+            "description": "10 gm",
+            "price": "55",
+            "chipsid": p4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049387.jpg"
+        },
+        {
+            "name": "Mortin-Insta",
+            "description": "Combo machine with Refill",
+            "price": "85",
+            "chipsid": p5,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701033848.jpg"
+        },
+        {
+            "name": "Godrej Air pocket Petal",
+            "description": "10 gm",
+            "price": "50",
+            "chipsid": p6,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805049835.jpg"
+        },
+        {
+            "name": "Godrej Aer Petal Freshner",
+            "description": "300 ml",
+            "price": "149",
+            "chipsid": p7,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024796.jpg"
+        },
+        {
+            "name": "Godrej Aer Morning Misty",
+            "description": "300 ml",
+            "price": "149",
+            "chipsid": p8,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701026916.jpg"
+        },
+        {
+            "name": "Godrej Green Air Freshner",
+            "description": "300 ml",
+            "price": "149",
+            "chipsid": p9,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701025337.jpg"
+        },
+        {
+            "name": "Air Wick Aerosol Morning Rose",
+            "description": "245 ml",
+            "price": "150",
+            "chipsid": p10,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037544.jpg"
+        },
+        {
+            "name": "Hit Lime Frangrance Spray",
+            "description": "200 ml",
+            "price": "99",
+            "chipsid": p11,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037399.jpg"
+        },
+        {
+            "name": "Hit Flying Back Killer Spray",
+            "description": "400 ml",
+            "price": "182",
+            "chipsid": p12,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027601.jpg"
+        },
+{
+            "name": "Hidden Cockroach Killer spary",
+            "description": "225 ml",
+            "price": "99",
+            "chipsid": p13,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024033.jpg"
+        },
+        {
+            "name": "Godrej Aer Violet Air Freshner",
+            "description": "300 ml",
+            "price": "149",
+            "chipsid": p14,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701026917.jpg"
+        },
+        {
+            "name": "Godrej Aer Cool Spray",
+            "description": "300 ml",
+            "price": "149",
+            "chipsid": p15,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701021949.jpg"
+        },
+        {
+            "name": "Hit Cockroach insect Killer Spary",
+            "description": "400 ml",
+            "price": "182",
+            "chipsid": p16,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027336.jpg"
+        },
+        {
+            "name": "Air Wick Life Scents Refill Spray",
+            "description": "250 ml",
+            "price": "299",
+            "chipsid": p17,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046473.jpg"
+        },
+        {
+            "name": "Odonil Jashmine Mist Air Freshener",
+            "description": "50 gm",
+            "price": "47",
+            "chipsid": p18,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019694.jpg"
+        },
+        {
+            "name": "Good Knight Shakti Machine with 10 Mats",
+            "description": "1 Pcs",
+            "price": "49",
+            "chipsid": p19,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701026822.jpg"
+        },
+        {
+            "name": "Odomos Mosquito Lotion",
+            "description": "60 ml",
+            "price": "50",
+            "chipsid": p20,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701020095.jpg"
+        },
+        {
+            "name": "Good Knight Fast Card",
+            "description": "10 pcs",
+            "price": "10",
+            "chipsid": p21,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023908.jpg"
+        },
+        {
+            "name": "Good Knight Mosquito Cartridge",
+            "description": "2 X 45 ml",
+            "price": "134",
+            "chipsid": p22,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037777.jpg"
+        },
+        {
+            "name": "Hit Anti Roach Cockroach Killer Gel",
+            "description": "20 gm",
+            "price": "249",
+            "chipsid": p23,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024034.jpg"
+        }
+    ]
