@@ -1,0 +1,257 @@
+[
+       {
+            "name": "MDH Kitchen King Masala",
+            "description": "100 gm",
+            "price": "66",
+            "chipsid": m1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019325.jpg"
+        },
+        {
+            "name": "Everest Chhole Masala",
+            "description": "100 gm",
+            "price": "60",
+            "chipsid": m2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003060.jpg"
+        },
+        {
+            "name": "Everest Kasuri Methi",
+            "description": "100 gm",
+            "price": "84",
+            "chipsid": m3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701002576.jpg"
+        },
+        {
+            "name": "Everest Shahi Biryani Masala",
+            "description": "50 gm",
+            "price": "15",
+            "chipsid": m4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701004806.jpg"
+        },
+       
+	{
+            "name": "Everest Tikhalal Hot Chilli Powder",
+            "description": "100 gm",
+            "price": "35",
+            "chipsid": m5,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001212.jpg"
+        },   
+        {
+            "name": "MDH Amchur Powder",
+            "description": "100 gm",
+            "price": "60",
+            "chipsid": m6,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024231.jpg"
+        },
+	{
+            "name": "MTR Upma Breakfast Mix",
+            "description": "170 gm",
+            "price": "40",
+            "chipsid": m7,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024283.jpg"
+        },
+        {
+            "name": "Everest Turmeric Powder",
+            "description": "200 gm",
+            "price": "52",
+            "chipsid": m8,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019296.jpg"
+        },
+	{
+            "name": "MTR Sambar Powder",
+            "description": "100 gm",
+            "price": "55",
+            "chipsid": m9,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024298.jpg"
+        },
+        {
+            "name": "MDH Meat Ka Masala",
+            "description": "100 gm",
+            "price": "68",
+            "chipsid": m10,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046095.jpg"
+        },
+	{
+            "name": "Brown & Polson Corn Flour",
+            "description": "100 gm",
+            "price": "5",
+            "chipsid": m11,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701019538_2.jpg"
+        },        
+	{
+            "name": "Everest Kutilal Chilli Powder",
+            "description": "100 gm",
+            "price": "28",
+            "chipsid": m12,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011912090848.jpg"
+        },
+        {
+            "name": "MDH Meat Ka Masala",
+            "description": "100 gm",
+            "price": "68",
+            "chipsid": m13,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046095.jpg"
+        },
+	{
+            "name": "Brown & Polson Corn Flour",
+            "description": "100 gm",
+            "price": "5",
+            "chipsid": m14,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701019538_2.jpg"
+        },
+	{
+            "name": "MDH Garam Masala",
+            "description": "50 gm",
+            "price": "37",
+            "chipsid": m15,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019321.jpg"
+        },
+	 {
+            "name": "Everest Sambhar Masala",
+            "description": "100 gm",
+            "price": "60",
+            "chipsid": m16,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701007448.jpg"
+        },
+	{
+            "name": "Everest Green Coriander Powder",
+            "description": "100 gm",
+            "price": "26",
+            "chipsid": m17,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019299.jpg"
+        },
+        {
+            "name": "MDH Chana Masala",
+            "description": "100 gm",
+            "price": "60",
+            "chipsid": m18,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019311.jpg"
+        },
+	{
+            "name": "Everest Sabji Masala",
+            "description": "100 gm",
+            "price": "51",
+            "chipsid": m19,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701004367.jpg"
+        },
+        {
+            "name": "Everest Black Pepper Powder",
+            "description": "100 gm",
+            "price": "145",
+            "chipsid": m20,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701002687.jpg"
+        },
+	{
+            "name": "Everest Chaat Masala",
+            "description": "100 gm",
+            "price": "60",
+            "chipsid": m21,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003133.jpg"
+        },
+	{
+            "name": "Everest Pav Bhaji Masala",
+            "description": "100 gm",
+            "price": "64",
+            "chipsid": m22,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003136.jpg"
+        },
+	 {
+            "name": "Everest Kitchen King Masala",
+            "description": "100 gm",
+            "price": "63",
+            "chipsid": m23,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003137.jpg"
+        },
+	{
+            "name": "Everest Shahi Paneer Masala",
+            "description": "100 gm",
+            "price": "75",
+            "chipsid": m24,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023710.jpg"
+        },
+        {
+            "name": "Everest Super Garam Masala",
+            "description": "200 gm",
+            "price": "75",
+            "chipsid": m25,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701026519.jpg"
+        },
+	{
+            "name": "Everest Royal Garam Masala",
+            "description": "100 gm",
+            "price": "75",
+            "chipsid": m26,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027862.jpg"
+        },
+        {
+            "name": "Maggi Ae Magic Masala",
+            "description": "30 gm",
+            "price": "22",
+            "chipsid": m27,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037626.jpg"
+        },
+	{
+            "name": "MDH Chunky Chat Masala",
+            "description": "100 gm",
+            "price": "60",
+            "chipsid": m28,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024230.jpg"
+        },
+        {
+            "name": "MDH Rajmah Masala",
+            "description": "100 gm",
+            "price": "58",
+            "chipsid": m29,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024234.jpg"
+        },
+	{
+            "name": "Everest Green Coriander Powder",
+            "description": "100 gm",
+            "price": "26",
+            "chipsid": m30,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019299.jpg"
+        },
+        
+        {
+            "name": "Dhania Powder (Coriander Powder/Dhane)",
+            "description": "100 gm",
+            "price": "30",
+            "chipsid": m31,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022601.jpg"
+        },
+	
+	{
+            "name": "Everest Kitchen King Masala",
+            "description": "100 gm",
+            "price": "63",
+            "chipsid": m32,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003137.jpg"
+        },
+	{
+            "name": "Everest Shahi Paneer Masala",
+            "description": "100 gm",
+            "price": "75",
+            "chipsid": m33,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023710.jpg"
+        },
+        {
+            "name": "Everest Super Garam Masala",
+            "description": "200 gm",
+            "price": "75",
+            "chipsid": m34,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701026519.jpg"
+        },
+	{
+            "name": "Everest Royal Garam Masala",
+            "description": "100 gm",
+            "price": "75",
+            "chipsid": m35,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027862.jpg"
+        },
+        {
+            "name": "Maggi Ae Magic Masala",
+            "description": "30 gm",
+            "price": "22",
+            "chipsid": m36,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037626.jpg"
+        }				
+    ]
