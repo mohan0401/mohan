@@ -1,0 +1,30 @@
+[
+        {
+            "name": "Fortune Soya Health Refined Soyabean Oil",
+            "description": "5 Liter",
+            "price": "600",
+            "chipsid": z1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011851136380.jpg"
+        },
+        {
+            "name": "Milkfood Pure Ghee",
+            "description": "1 Liter",
+            "price": "420",
+            "chipsid": z2,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030908.jpg"
+        },
+        {
+            "name": "Pears Pure And Gentle Soap Bar",
+            "description": "3 X 125 gm",
+            "price": "160",
+            "chipsid": z3,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701001329_2.jpg"
+        },
+        {
+            "name": "Fortune Refind Soyabean Oil",
+            "description": "1 Liter",
+            "price": "110",
+            "chipsid": z4,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023778.jpg"
+        }
+    ]
