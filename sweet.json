@@ -1,0 +1,23 @@
+[
+        {
+            "name": "Kajukatli",
+            "description": "100 gm",
+            "price": "35",
+            "chipsid": ss1,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/kajukatli_5-n9mDOuOl.jpg
+         },
+        {
+            "name": "Rasgulla",
+            "description": "100 gm",
+            "price": "20",
+            "chipsid": ss2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/rasgulla_f3GqPCct4.jpg"
+        },
+        {
+            "name": "Motichoor Laddu",
+            "description": "100 gm",
+            "price": "20",
+            "chipsid": ss3,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/laddu_pN5B10x2Ko.jpg"
+        }
+    ]
