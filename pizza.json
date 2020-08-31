@@ -1,0 +1,16 @@
+[
+        {
+            "name": "Paper Roni Pizza",
+            "description": "Small",
+            "price": "90",
+            "chipsid": pz1,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/pepperroni_pizza_BjXZgj4mN8.jpg"
+        },
+        {
+            "name": "Margheritapizza",
+            "description": "Medium",
+            "price": "130",
+            "chipsid": pz2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/margheritapizza_Sq_9YKIyJT.jpg"
+        }
+    ]
