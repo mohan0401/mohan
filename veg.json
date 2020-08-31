@@ -1,44 +1,23 @@
 [
         {
-            "name": "Lays- American Style Cream Onion",
-            "description": "100 gm",
-            "price": "35",
-            "chipsid": c1,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003681.jpg"
+            "name": "Fresh Lady Finger",
+            "description": "1 Kg",
+            "price": "40",
+            "chipsid": vs1,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/ladyfinger_dZY_UCsjN.jpg"
         },
         {
-            "name": "Lays-American-Onion",
-            "description": "100 gm",
-            "price": "35",
-            "chipsid": c2,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701029955.jpg"
+            "name": "Fresh Pumpkin",
+            "description": "1 Kg",
+            "price": "45",
+            "chipsid": vs2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/pumpkin_LEgqkHAod2.jpg"
         },
         {
-            "name": "Lays-Tomato",
-            "description": "59 gm",
-            "price": "20",
-            "chipsid": c3,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019977.jpg"
-        },
-        {
-            "name": "Lays- Salty",
-            "description": "50 gm",
-            "price": "20",
-            "chipsid": c4,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000062.jpg"
-        },
-        {
-            "name": "Lays- Magic Mashala Party Pack",
-            "description": "95 gm",
-            "price": "35",
-            "chipsid": c5,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037624.jpg"
-        },
-        {
-            "name": "ACE- Golden Sizzle Party Pack",
-            "description": "40 gm",
-            "price": "15",
-            "chipsid": c6,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011805050144.jpg"
+            "name": "Fresh Tomato",
+            "description": "1 Kg",
+            "price": "40",
+            "chipsid": vs3,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/tomato_OD6mnpUOeh.jpg"
         }
     ]
