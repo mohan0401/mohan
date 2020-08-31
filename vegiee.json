@@ -1,0 +1,23 @@
+[
+        {
+            "name": "Fresh Lady Finger",
+            "description": "1 Kg",
+            "price": "40",
+            "chipsid": vg1,
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003681.jpg"
+        },
+        {
+            "name": "Fresh Tomato",
+            "description": "1 Kg",
+            "price": "40",
+            "chipsid": vg2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/tomato_OD6mnpUOeh.jpg"
+        },
+        {
+            "name": "Fresh Pumpkin",
+            "description": "1 Kg",
+            "price": "50",
+            "chipsid": vg3,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/pumpkin_LEgqkHAod2.jpg"
+        }
+    ]
