@@ -12,5 +12,12 @@
             "price": "340",
             "chipsid": me2,
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/immune2_cxzNvx3eyH.jpg"
+        },
+        {
+            "name": "Immuno booster with Vitamin C",
+            "description": "50 Tablets",
+            "price": "340",
+            "chipsid": me3,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/immune2_cxzNvx3eyH.jpg"
         }
     ]
