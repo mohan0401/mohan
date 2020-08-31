@@ -1,0 +1,16 @@
+[
+        {
+            "name": "Best Body Immuno Booster",
+            "description": "50 Tablets",
+            "price": "350",
+            "chipsid": me1,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/immuno_LYa8oRETT2.jpg"
+        },
+        {
+            "name": "Immuno booster with Vitamin C",
+            "description": "50 Tablets",
+            "price": "340",
+            "chipsid": me2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/immune2_cxzNvx3eyH.jpg"
+        }
+    ]
