@@ -1,0 +1,23 @@
+[
+        {
+            "name": "Lays- American Style Cream Onion",
+            "description": "100 gm",
+            "price": "35",
+            "chipsid": ad1,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile2_nmwPjIAxON.jpg"
+        },
+        {
+            "name": "Lays-American-Onion",
+            "description": "100 gm",
+            "price": "35",
+            "chipsid": ad2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile3_oagGBcQ0Zu.jpg"
+        },
+        {
+            "name": "Lays-Tomato",
+            "description": "59 gm",
+            "price": "20",
+            "chipsid": ad3,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
+        }
+    ]
