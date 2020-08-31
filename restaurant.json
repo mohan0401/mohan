@@ -1,0 +1,30 @@
+[
+        {
+            "name": "Veg Manchurian",
+            "description": "1 Plate 8 Pieces",
+            "price": "50",
+            "chipsid": R31,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/veg_Manchurian_jiK7eOvR_D.jpg"
+        },
+        {
+            "name": "Spicy Noodles",
+            "description": "1 Large Bowl",
+            "price": "50",
+            "chipsid": R32,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Noodels_XKAaxuCOtY.jpg"
+        },
+        {
+            "name": "Fried Rice",
+            "description": "1 Large Bowl",
+            "price": "60",
+            "chipsid": R33,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/fried_Rice_R4WLYQzGyI.jpg"
+        },
+        {
+            "name": "Spicy Momos ",
+            "description": "8 Pieces",
+            "price": "30",
+            "chipsid": R34,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/chicken_momos_wY4xWs7V4f.jpg"
+        }
+    ]
