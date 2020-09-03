@@ -5,5 +5,13 @@
             "price": "20",
             "chipsid": ad1,
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
+        },
+      
+      {
+            "name": "Lays-Tomato",
+            "description": "59 gm",
+            "price": "20",
+            "chipsid": ad2,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
         }
     ]
