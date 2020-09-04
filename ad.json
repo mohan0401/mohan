@@ -13,5 +13,29 @@
             "price": "20",
             "chipsid": ad2,
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
+        },
+      
+      {
+            "name": "Lays-Tomato",
+            "description": "59 gm",
+            "price": "20",
+            "chipsid": ad3,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
+        },
+      
+      {
+            "name": "Lays-Tomato",
+            "description": "59 gm",
+            "price": "20",
+            "chipsid": ad4,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
+        },
+      
+      {
+            "name": "Lays-Tomato",
+            "description": "59 gm",
+            "price": "20",
+            "chipsid": ad5,
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/mobile_pEbmZ4Ft9.jpg"
         }
     ]
