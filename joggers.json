@@ -1,0 +1,24 @@
+[
+        {
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "31",
+            "chipsid": "KRJ1",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030574.jpg"
+        },
+        {
+            "name": "Tata Iodised Salt",
+            "description": "1 kg",
+            "price": "19",
+            "chipsid": "KRJ2",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg"
+        },
+        {
+            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
+            "description": "1 kg",
+            "price": "40",
+            "chipsid": "KRJ3",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg"
+        }
+
+]
