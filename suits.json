@@ -4,21 +4,119 @@
             "description": "1 kg",
             "price": "31",
             "chipsid": "KRSU1",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030574.jpg"
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.39_AmgFL10d9z.jpeg"
         },
         {
             "name": "Tata Iodised Salt",
             "description": "1 kg",
             "price": "19",
             "chipsid": "KRSU2",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg"
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.40_R_JL0X8daP.jpeg"
         },
         {
             "name": "Sugar (Sakhar\ Shakkar\ Chini)",
             "description": "1 kg",
             "price": "40",
             "chipsid": "KRSU3",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg"
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.38_Z2Eymg0dur.jpeg"
+        },
+        {
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "31",
+            "chipsid": "KRSU4",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.40__1__f5Y2iTIBHb.jpeg"
+        },
+        {
+            "name": "Tata Iodised Salt",
+            "description": "1 kg",
+            "price": "19",
+            "chipsid": "KRSU5",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.25.06__1__Aej_SRUauS.jpeg"
+        },
+        {
+            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
+            "description": "1 kg",
+            "price": "40",
+            "chipsid": "KRSU6",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.25.04_w82RQNfvT2.jpeg"
+        },
+        {
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "31",
+            "chipsid": "KRSU7",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.25.05_EbSQo5jerW.jpeg"
+        },
+        {
+            "name": "Tata Iodised Salt",
+            "description": "1 kg",
+            "price": "19",
+            "chipsid": "KRSU8",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.25.04__1__KKbe0KzE2t.jpeg"
+        },
+        {
+            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
+            "description": "1 kg",
+            "price": "40",
+            "chipsid": "KRSU9",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.25.06_i5CPmAGUtD.jpeg"
+        },
+        {
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "31",
+            "chipsid": "KRSU10",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.25.07_k7EtFwQD8Q.jpeg"
+        },
+        {
+            "name": "Tata Iodised Salt",
+            "description": "1 kg",
+            "price": "19",
+            "chipsid": "KRSU11",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.23.40__1__vjhiisjqSW.jpeg"
+        },
+        {
+            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
+            "description": "1 kg",
+            "price": "40",
+            "chipsid": "KRSU12",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.23.40_TnurUEwZ9.jpeg"
+        },
+        {
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "31",
+            "chipsid": "KRSU13",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.23.42_jIjCcM4DUa.jpeg"
+        },
+        {
+            "name": "Tata Iodised Salt",
+            "description": "1 kg",
+            "price": "19",
+            "chipsid": "KRSU14",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.23.41_kPksbE2aT6.jpeg"
+        },
+        {
+            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
+            "description": "1 kg",
+            "price": "40",
+            "chipsid": "KRSU15",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.22_WE51L1Dpsz.jpeg"
+        },
+        {
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "31",
+            "chipsid": "KRSU16",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.23_ULOVfG-xrd.jpeg"
+        },
+        {
+            "name": "Tata Iodised Salt",
+            "description": "1 kg",
+            "price": "19",
+            "chipsid": "KRSU17",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Suits/WhatsApp_Image_2020-10-14_at_20.24.22__1__Z02RaXIMT.jpeg"
         }
 
 ]
