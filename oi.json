@@ -1,6 +1,6 @@
 [
         {
-            "name": "Patanjali Cow Ghee",
+            "name": "Oppo A1K",
             "description": "1 Kg",
             "price": "565",
             "chipsid": "PMS1",
@@ -14,28 +14,28 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Vivo_v19_ghkjU22Jos.jpg"
         },
         {
-            "name": "Fortune Premium Kachi Ghani Mustard Oil",
+            "name": "Real Me 7i",
             "description": "1 Liter",
             "price": "130",
             "chipsid": "PMS3",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme7i_W_oGZweBU.jpg"
         },        
         {
-            "name": "Madhusudan Desi Ghee",
+            "name": "Oppo A15",
             "description": "1 Liter",
             "price": "400",
            "chipsid": "PMS4",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/oppoa15_rCahU_cDJRSc.jpg"
         },
         {
-            "name": "Fortune Refind Soyabean Oil",
+            "name": "Real Me X3",
             "description": "1 Liter",
             "price": "110",
             "chipsid": "PMS5",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg"
         },        
         {
-            "name": "Saffola Gold Oil",
+            "name": "Real Me X3 Superzoom",
             "description": "1 Liter",
             "price": "143",
             "chipsid": "PMS6",
@@ -70,21 +70,21 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Vivo_y91_Q9HQum_M9sG.jpeg"
         },
 	{
-            "name": "Patanjali Mustard Oil",
+            "name": "Vivo Y11",
             "description": "1 Liter",
             "price": "140",
             "chipsid": "PMS11",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/vivo711_wdawy7PuY.jpg"
         },
         {
-            "name": "Patanjali Mustard Oil",
+            "name": "Real Me X50 Pro 5G",
             "description": "5 liter",
             "price": "700",
             "chipsid": "PMS12",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg"
         },
         {
-            "name": "Patanjali Rice Bran Oil",
+            "name": "Vivo X50",
             "description": "1 Liter",
             "price": "125",
             "chipsid": "PMS13",
@@ -98,7 +98,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo_A12_ZpvtHBmvN8q.jpg"
         },
 	 {
-            "name": "Bail Kolhu Kachi Ghani Mustard Oil",
+            "name": "Vivo Y50",
             "description": "5 Liter",
             "price": "670",
             "chipsid": "PMS15",
@@ -119,7 +119,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo_A11k_1MHQBYuYt8c.jpeg"
         },
 	 {
-            "name": "Bail Kolhu Kachi Ghani Mustard Oil",
+            "name": "Oppo F17 Pro",
             "description": "5 Liter",
             "price": "670",
             "chipsid": "PMS18",
@@ -142,7 +142,7 @@
         },
 	
 	{
-            "name": "Patanjali Extra Virgin Groundnut Oil",
+            "name": "Vivo V20",
             "description": "1 Liter",
             "price": "130",
             "chipsid": "PMS21",
