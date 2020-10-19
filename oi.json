@@ -1,19 +1,22 @@
 [
         {
-            "name": "Oppo A1K",
+            "discount": "10",
+	    "name": "Oppo A1K",
             "description": "2 GB RAM 32 GB ROM",
             "price": "565",
             "chipsid": "PMS1",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo-A1k_rQXoVnGd_Tw_7nwqUZ1iY.jpg"
         },
         {
-            "name": "Vivo V19",
+            "discount": "12",
+	    "name": "Vivo V19",
             "description": "8 GB RAM 256 GB ROM",
             "price": "520",
             "chipsid": "PMS2",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Vivo_v19_ghkjU22Jos.jpg"
         },
         {
+		"discount": "12",
             "name": "Real Me 7i",
             "description": "8 GB RAM 128 GB ROM",
             "price": "16750",
@@ -21,6 +24,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme7i_W_oGZweBU.jpg"
         },        
         {
+		"discount": "12",
             "name": "Oppo A15",
             "description": "13 MP CAMERA 4230 Mah Battery",
             "price": "400",
@@ -28,6 +32,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/oppoa15_rCahU_cDJRSc.jpg"
         },
         {
+		"discount": "12",
             "name": "Real Me X3",
             "description": "8 GB 128GB ROM",
             "price": "25999",
@@ -35,6 +40,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Real Me X3",
             "description": "6 GB 128GB ROM",
             "price": "24999",
@@ -42,6 +48,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg"
         }, 
         {
+		"discount": "12",
             "name": "Real Me X3 Superzoom",
             "description": "12 GB 256 GB",
             "price": "35999",
@@ -49,6 +56,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x3_superzoom_aBxkEoVlps.jpg"
         },
         {
+		"discount": "12",
             "name": "Real Me C12",
             "description": "5 Liter",
             "price": "800",
@@ -56,6 +64,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/C12_UJea0gPL-N.jpg"
         },	
         {
+		"discount": "12",
             "name": "Real Me C15",
             "description": "1 Liter",
             "price": "135",
@@ -63,6 +72,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/C15_IXm9hoQRv.jpg"
         },
 	{
+		"discount": "12",
             "name": "Real Me C11",
             "description": "5 Ltr",
             "price": "600",
@@ -70,6 +80,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/RealmeC11_J3WkMOATxJ.jpeg"
         },
         {
+		"discount": "12",
             "name": "Vivo Y91",
             "description": "3 GB RAM 32 GB ROM ",
             "price": "250",
@@ -77,6 +88,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Vivo_y91_Q9HQum_M9sG.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Vivo Y11",
             "description": "3GB RAM 32GB ROM",
             "price": "140",
@@ -84,6 +96,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/vivo711_wdawy7PuY.jpg"
         },
         {
+		"discount": "12",
             "name": "Real Me X50 Pro 5G",
             "description": "12 GB RAM 256 GB ROM",
             "price": "44999",
@@ -91,6 +104,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Real Me X50 Pro 5G",
             "description": "8 GB RAM 128 GB ROM",
             "price": "39999",
@@ -98,6 +112,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Real Me X50 Pro 5G",
             "description": "6 GB RAM 128 GB ROM",
             "price": "37999",
@@ -105,6 +120,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg"
         },
         {
+		"discount": "12",
             "name": "Vivo X50",
             "description": "1 Liter",
             "price": "125",
@@ -112,6 +128,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__25__ggu6c4cPQ0.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Oppo A12",
             "description": "3GB RAM 32GB ROM",
             "price": "120",
@@ -119,6 +136,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo_A12_ZpvtHBmvN8q.jpg"
         },
 	 {
+		 "discount": "12",
             "name": "Vivo Y50",
             "description": "8GB RAM 128GB ROM",
             "price": "670",
@@ -126,6 +144,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/y50_-hnoQ8MLXmHi.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Oppo F17",
             "description": " 8 GB RAM 128 GB ROM",
             "price": "125",
@@ -133,6 +152,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/F17_8_GB_128_GB_hObpYuJfEGQy.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Oppo A11k",
             "description": "2GB RAM 32 GB ROM",
             "price": "120",
@@ -140,6 +160,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo_A11k_1MHQBYuYt8c.jpeg"
         },
 	 {
+		 "discount": "12",
             "name": "Oppo F17 Pro",
             "description": "5 Liter",
             "price": "670",
@@ -148,6 +169,7 @@
         },
 	
 	{
+		"discount": "12",
             "name": "Vivo Y30",
             "description": "4GB RAM 128GB ROM",
             "price": "130",
@@ -155,6 +177,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Y30_qXw_eIS_Muee.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Real Me 7",
             "description": "5 Liter",
             "price": "670",
@@ -163,6 +186,7 @@
         },
 	
 	{
+		"discount": "12",
             "name": "Vivo V20",
             "description": "1 Liter",
             "price": "130",
@@ -170,6 +194,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__23__UK4JLLq8dz-3.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Vivo S1 Pro",
             "description": "8GB RAM 128GB ROM",
             "price": "670",
@@ -178,6 +203,7 @@
         },
 	
 	{
+		"discount": "12",
             "name": "Real Me 6 Pro",
             "description": "1 Liter",
             "price": "130",
@@ -185,6 +211,7 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Relalme6pro_A8Q8Bn6xWX.jpeg"
         },
 	{
+		"discount": "12",
             "name": "Oppo Reno 3 Pro",
             "description": "8GB RAM 128GB ROM",
             "price": "670",
@@ -193,6 +220,7 @@
         },
 	
 	{
+		"discount": "15",
             "name": "Real Me 6",
             "description": "1 Liter",
             "price": "130",
