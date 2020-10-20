@@ -1,107 +1,122 @@
 [
         {
-            "name": "Himalaya Baby Powder",
+            "discount": "10",
+		"name": "Himalaya Baby Powder",
             "description": "700 gm",
             "price": "290",
-            "chipsid": e1,
+            "chipsid": "e1",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027693.jpg"
         },
         {
-            "name": "Himalaya Babycare Gift Pack",
+            "discount": "15",
+		"name": "Himalaya Babycare Gift Pack",
             "description": "1 pcs",
             "price": "460",
-            "chipsid": e2,
+            "chipsid": "e2",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049479.jpg"
         },
         {
-            "name": "Nestle Lactogen 1 Infant Formula",
+            "discount": "10",
+		"name": "Nestle Lactogen 1 Infant Formula",
             "description": "400 gm",
             "price": "325",
-            "chipsid": e3,
+            "chipsid": "e3",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001184.jpg"
         },
         {
-            "name": "Nestle Lactogen Stage 2 Infant Formula",
+            "discount": "10",
+		"name": "Nestle Lactogen Stage 2 Infant Formula",
             "description": "400 gm",
             "price": "300",
-            "chipsid": e4,
+            "chipsid": "e4",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001185.jpg"
         },
         {
-            "name": "Nestle Multi Grain Dal Veg Stage 4 Cerelac",
+            "discount": "10",
+		"name": "Nestle Multi Grain Dal Veg Stage 4 Cerelac",
             "description": "300 gm",
             "price": "248",
-            "chipsid": e5,
+            "chipsid": "e5",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001172.jpg"
         },
         {
-            "name": "Nestle Multigrain & Fruits Baby Cerelac",
+            "discount": "10",
+		"name": "Nestle Multigrain & Fruits Baby Cerelac",
             "description": "300 gm",
             "price": "276",
-            "chipsid": e6,
+            "chipsid": "e6",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037437.jpg"
         },
         {
-            "name": "Amul Spray Baby Milk Powder",
+            "discount": "10",
+		"name": "Amul Spray Baby Milk Powder",
             "description": "1 kg",
             "price": "385",
-           "chipsid": e7,
+           "chipsid": "e7",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701035451.jpg"
         },
         {
-            "name": "Nestle Infant Cereal Stage 2 Wheat Apple Cherry Cerelac",
+            "discount": "10",
+		"name": "Nestle Infant Cereal Stage 2 Wheat Apple Cherry Cerelac",
             "description": "300 gm",
             "price": "204",
-            "chipsid": e8,
+            "chipsid": "e8",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001183.jpg"
         },
         {
-            "name": "Johnson's Vitamin E Baby Oil",
+            "discount": "10",
+		"name": "Johnson's Vitamin E Baby Oil",
             "description": "100 ml",
             "price": "105",
-            "chipsid": e9,
+            "chipsid": "e9",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/7001423421756.jpg"
         },
         {
-            "name": "Johnson's Baby Skincare Wipes",
+            "discount": "10",
+		"name": "Johnson's Baby Skincare Wipes",
             "description": "80 pcs",
             "price": "220",
-            "chipsid": e10,
+            "chipsid": "e10",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001881.jpg"
         },
         {
-            "name": "Himalaya Baby Wipes",
+            "discount": "10",
+		"name": "Himalaya Baby Wipes",
             "description": "12 pcs",
             "price": "40",
-            "chipsid": e11,
+            "chipsid": "e11",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024004.jpg"
         },
         {
-            "name": "Himalaya Herbals Babycare White Gift Basket",
+            "discount": "10",
+		"name": "Himalaya Herbals Babycare White Gift Basket",
             "description": "1 pcs",
             "price": "680",
-            "chipsid": e12,
+            "chipsid": "e12",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049616.jpg"
         },
 	{
-            "name": "Nestle Cerelac Fortified Baby Cereal With Milk Multi Ragi Apple",
+            "discount": "10",
+		"name": "Nestle Cerelac Fortified Baby Cereal With Milk Multi Ragi Apple",
             "description": "300 gm",
             "price": "225",
-            "chipsid": e13,
+            "chipsid": "e13",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70030729538883.jpg"
         },
         {
-            "name": "Pampers Baby Dry Large Size Pant Diapers",
+            "discount": "10",
+		"name": "Pampers Baby Dry Large Size Pant Diapers",
             "description": "64 pcs",
             "price": "800",
-            "chipsid": e14,
+            "chipsid": "e14",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027478.jpg"
         },
         {
-            "name": "Nestle Baby Cereal Wheat Apple Infant Formula",
+            "discount": "10",
+		"name": "Nestle Baby Cereal Wheat Apple Infant Formula",
             "description": "300 gm",
             "price": "185",
-            "chipsid": e15,
+            "chipsid": "e15",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037649.jpg"
         }
     ]
