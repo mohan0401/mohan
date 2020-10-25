@@ -1,100 +1,128 @@
 [
         {
+		"discount": "",
+		"edescription": "",
             "name": "Glucon D Regular Energy Drink",
             "description": "250 gm",
             "price": "57",
-            "chipsid": b1,
+            "chipsid": "b1",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70012755835642.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Sprite Soft Drink",
             "description": "2 Ltr",
             "price": "85",
-            "chipsid": b2,
+            "chipsid": "b2",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001347.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Mirinda Orange Drink",
             "description": "2 Ltr",
             "price": "80",
-            "chipsid": b3,
+            "chipsid": "b3",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001353.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Dabar Gluco Plus Orange Flavour",
             "description": "500 gm",
             "price": "150",
-            "chipsid": b4,
+            "chipsid": "b4",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701009435.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Fanta Orange Flavour Soft Drink",
             "description": "2 Ltr",
             "price": "85",
-            "chipsid": b5,
+            "chipsid": "b5",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001348.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Coca- Cola Soft Drink",
             "description": "330 ml",
             "price": "35",
-            "chipsid": b6,
+            "chipsid": "b6",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701004744.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Limca Soft Drink",
             "description": "2 Ltr",
             "price": "85",
-            "chipsid": b7,
+            "chipsid": "b7",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701028040.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Appy Fizz Apple Drink",
             "description": "600 ml",
             "price": "30",
-            "chipsid": b8,
+            "chipsid": "b8",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011806050819.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Thumps Up Soft Drink",
             "description": "2 Ltr",
             "price": "80",
-            "chipsid": b9,
+            "chipsid": "b9",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046706.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Thumps Up Soft Drink",
             "description": "1.25 Ltr",
             "price": "60",
-            "chipsid": b10,
+            "chipsid": "b10",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701004747.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Appy Fizz Apple Drink",
             "description": "160 ml",
             "price": "10",
-            "chipsid": b11,
+            "chipsid": "b11",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003551.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Sprite Soft Drink",
             "description": "1.25 Ltr",
             "price": "60",
-            "chipsid": b12,
+            "chipsid": "b12",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001347.jpg"
         },
 	{
+		"discount": "",
+		"edescription": "",
             "name": "Appy Fizz Apple Drink",
             "description": "250 ml",
             "price": "15",
-            "chipsid": b13,
+            "chipsid": "b13",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701005428_4.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Pepsi Soft Drink",
             "description": "600 ml",
             "price": "35",
-            "chipsid": b14,
+            "chipsid": "b14",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701002493.jpg"
         }
     ]
