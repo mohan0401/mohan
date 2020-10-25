@@ -191,30 +191,30 @@
 	 {
 		 "discount": "12",
             "name": "Oppo F17 Pro",
-            "description": "5 Liter",
-            "price": "670",
+            "description": "8 GB RAM",
+            "price": "20999",
             "chipsid": "PMS18",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__19__0NNWzLrLN.jpeg",
-		 "edescription": "1"
+		 "edescription": "Display 6.43'', Octacore 2.2GHz +2 GHz Hexa core, Camera 48MP/8MP/2MP/2MP Quad Primary 16MP/2MP Dual Front, 4015 mAH Battery"
         },
 	
 	{
 		"discount": "12",
             "name": "Vivo Y30",
             "description": "4GB RAM 128GB ROM",
-            "price": "130",
+            "price": "12999",
             "chipsid": "PMS19",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Y30_qXw_eIS_Muee.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.47'', Octacore 2.3GHz Media Tek Helio P35, Camera 13MP/8MP/2MP/2MP Quad Primary 8MP Front, 5000 mAH Battery"
         },
 	{
 		"discount": "12",
             "name": "Real Me 7",
-            "description": "5 Liter",
-            "price": "670",
+            "description": "6 GB 64 GB ROM",
+            "price": "14500",
             "chipsid": "PMS20",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme7_m6UlUuYWRz.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.5'', Dualcore 2.05GHz, +2 GHz Hexa core, Camera 64MP/8MP/2MP/2MP Quad Primary 16MP Front, 5000 mAH Battery"
         },
 	
 	{
