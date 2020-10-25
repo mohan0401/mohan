@@ -1,6 +1,7 @@
 [
         {
             "discount": "10",
+		"edescription": "700 gm",
 		"name": "Himalaya Baby Powder",
             "description": "700 gm",
             "price": "290",
@@ -9,6 +10,7 @@
         },
         {
             "discount": "15",
+		"edescription": "",
 		"name": "Himalaya Babycare Gift Pack",
             "description": "1 pcs",
             "price": "460",
@@ -17,6 +19,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Lactogen 1 Infant Formula",
             "description": "400 gm",
             "price": "325",
@@ -25,6 +28,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Lactogen Stage 2 Infant Formula",
             "description": "400 gm",
             "price": "300",
@@ -33,6 +37,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Multi Grain Dal Veg Stage 4 Cerelac",
             "description": "300 gm",
             "price": "248",
@@ -41,6 +46,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Multigrain & Fruits Baby Cerelac",
             "description": "300 gm",
             "price": "276",
@@ -49,6 +55,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Amul Spray Baby Milk Powder",
             "description": "1 kg",
             "price": "385",
@@ -57,6 +64,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Infant Cereal Stage 2 Wheat Apple Cherry Cerelac",
             "description": "300 gm",
             "price": "204",
@@ -65,6 +73,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Johnson's Vitamin E Baby Oil",
             "description": "100 ml",
             "price": "105",
@@ -73,6 +82,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Johnson's Baby Skincare Wipes",
             "description": "80 pcs",
             "price": "220",
@@ -81,6 +91,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Himalaya Baby Wipes",
             "description": "12 pcs",
             "price": "40",
@@ -89,6 +100,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Himalaya Herbals Babycare White Gift Basket",
             "description": "1 pcs",
             "price": "680",
@@ -97,6 +109,7 @@
         },
 	{
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Cerelac Fortified Baby Cereal With Milk Multi Ragi Apple",
             "description": "300 gm",
             "price": "225",
@@ -105,6 +118,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Pampers Baby Dry Large Size Pant Diapers",
             "description": "64 pcs",
             "price": "800",
@@ -113,6 +127,7 @@
         },
         {
             "discount": "10",
+		"edescription": "",
 		"name": "Nestle Baby Cereal Wheat Apple Infant Formula",
             "description": "300 gm",
             "price": "185",
