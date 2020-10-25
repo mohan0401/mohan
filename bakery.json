@@ -1,16 +1,20 @@
 [
         {
+                "discount": "",
+		"edescription": "",
             "name": "Strawberry Flavour Cake",
             "description": "500 gm",
             "price": "150",
-            "chipsid": bk1,
+            "chipsid": "bk1",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/cake1_IzaDOP6vV5.jpg"
         },
         {
+                "discount": "",
+		"edescription": "",
             "name": "Cup Cake",
             "description": "20 gm",
             "price": "20",
-            "chipsid": bk2,
+            "chipsid": "bk2",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/cupcake_BVAovJli6.jpg"
         }
     ]
