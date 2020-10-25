@@ -3,7 +3,7 @@
             "discount": "10",
 	    "name": "Oppo A1K",
             "description": "2 GB RAM 32 GB ROM",
-            "price": "565",
+            "price": "7990",
             "chipsid": "PMS1",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo-A1k_rQXoVnGd_Tw_7nwqUZ1iY.jpg",
 		"edescription": "Dispaly:6.1''  Dual SIM (Nano-SIM, dual stand-by)  Android 9.0 (Pie) Camera 8MP/5MP with flash 3.5mm 4000 MaH Battery"
@@ -29,11 +29,11 @@
         {
 		"discount": "12",
             "name": "Oppo A15",
-            "description": "13 MP CAMERA 4230 Mah Battery",
-            "price": "400",
+            "description": "3 GB RAM 32 GB Storage ",
+            "price": "10990",
            "chipsid": "PMS4",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/oppoa15_rCahU_cDJRSc.jpg",
-		"edescription": "1"
+		"edescription": "Display 6.62'', 4230 Mah Battery, 13 MP,2MP/2MP Camera, Android 10 Processor Media Tek Helio P35 "
         },
         {
 		"discount": "12",
@@ -42,7 +42,7 @@
             "price": "25999",
             "chipsid": "PMS5",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg",
-		"edescription": "1"
+		"edescription": "1216 Super liner Speaker, 64 MP Quad Camera, 4200mAH Battery, 6.6 inch Display,USB Type C Cable, Android Corning Forilla Glass"
         },
 	{
 		"discount": "12",
@@ -51,16 +51,16 @@
             "price": "24999",
             "chipsid": "PMS5i",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg",
-		"edescription": "1"
+		"edescription": "1216 Super liner Speaker, 64 MP Quad Camera, 4200mAH Battery, 6.6 inch Display,USB Type C Cable, Android Corning Forilla Glass"
         }, 
         {
 		"discount": "12",
             "name": "Real Me X3 Superzoom",
             "description": "12 GB 256 GB",
-            "price": "35999",
+            "price": "32999",
             "chipsid": "PMS6",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x3_superzoom_aBxkEoVlps.jpg",
-		"edescription": "1"
+		"edescription": "Display 6.6'', Camera 64MP/8MP/8MP/2MP Rear Flash/ 32 MP/8MP Front Camera, Sim Size Nano 4200 mAH Battery,  "
         },
         {
 		"discount": "12",
