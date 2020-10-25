@@ -220,48 +220,48 @@
 	{
 		"discount": "12",
             "name": "Vivo V20",
-            "description": "1 Liter",
-            "price": "130",
+            "description": "8 GB 128 GB ROM",
+            "price": "24990",
             "chipsid": "PMS21",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__23__UK4JLLq8dz-3.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.44'', Octacore 2.3GHz,+1.8 GHz Hexa core, Camera 64MP/8MP/2MP Tripple Primary 44MP Front, 4000 mAH Battery"
         },
 	{
 		"discount": "12",
             "name": "Vivo S1 Pro",
             "description": "8GB RAM 128GB ROM",
-            "price": "670",
+            "price": "17999",
             "chipsid": "PMS22",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__22__QppBOYjxF.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.38'', Octacore 2GHz +1.8 GHz Quad core, Camera 48MP/8MP/2MP/2MP Quad Primary 32MP Front back LED Flash, 4500 mAH Battery"
         },
 	
 	{
 		"discount": "12",
             "name": "Real Me 6 Pro",
-            "description": "1 Liter",
-            "price": "130",
+            "description": "6 GB RAM 64 GB ROM",
+            "price": "17999",
             "chipsid": "PMS23",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Relalme6pro_A8Q8Bn6xWX.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.6'', Octacore 2.3GHz, Dual Core +1.8 GHz Hexa core, Camera 64MP/8MP/12MP/2MP Quad Primary 16MP/8MP Front LED flash, 4300 mAH Battery"
         },
 	{
 		"discount": "12",
             "name": "Oppo Reno 3 Pro",
             "description": "8GB RAM 128GB ROM",
-            "price": "670",
+            "price": "23999",
             "chipsid": "PMS24",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Reno_3_pro_etyTi8RRv.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.4'', Octacore 2.2GHz, Dual Core +2 GHz Hexa core, Camera 64MP/13MP/8MP/2MP Quad Primary 44MP/2MP Front, 4025 mAH Battery"
         },
 	
 	{
 		"discount": "15",
             "name": "Real Me 6",
-            "description": "1 Liter",
-            "price": "100",
+            "description": "4 GB RAM 64 GB ROM",
+            "price": "14900",
             "chipsid": "PMS25",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme6_cSVeDH60fcf.jpeg",
-		"edescription": "1"
+		"edescription": "Display 6.5'', Octacore 2.05GHz, +2 GHz Hexa core, Camera 64MP/8MP/2MP/2MP Quad Primary 16MP Front, 4300 mAH Battery"
         }
     ]
