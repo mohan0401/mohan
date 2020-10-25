@@ -1,61 +1,79 @@
 [
         {
+		"discount": "",
+		"edescription": "",
             "name": "Amul Pasturised Butter",
             "description": "100 gm",
             "price": "45",
-            "chipsid": f1,
+            "chipsid": "f1",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046675.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Chocolaty Breakfast Chocos",
             "description": "700 gm",
             "price": "290",
-            "chipsid": f2,
+            "chipsid": "f2",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000274.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Chocos Cereals",
             "description": "1.2 kg",
             "price": "460",
-            "chipsid": f3,
+            "chipsid": "f3",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046035.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Mixed Fruit Jam",
             "description": "200 gm",
             "price": "53",
-            "chipsid": f4,
+            "chipsid": "f4",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011804049645_2.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Original Corn Flakes",
             "description": "100 gm",
             "price": "45",
-            "chipsid": f5,
+            "chipsid": "f5",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000198.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Real Honey Corn Flakes",
             "description": "300 gm",
             "price": "135",
-            "chipsid": f6,
+            "chipsid": "f6",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001340.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Real Strawberry Corn Flakes",
             "description": "275 gm",
             "price": "130",
-            "chipsid": f7,
+            "chipsid": "f7",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001357.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Fresh Tomato Ketchup",
             "description": "1 kg",
             "price": "138",
-            "chipsid": f8,
+            "chipsid": "f8",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701027643_2.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Patanjali Honey",
             "description": "1 kg",
             "price": "270",
@@ -63,6 +81,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046560.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Dabur Honey",
             "description": "250 gm",
             "price": "122",
@@ -70,6 +90,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000633.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Fresh Tomato Ketchup",
             "description": "450 gm",
             "price": "48",
@@ -77,6 +99,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011711047981_2.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Twist Sweet And Spicy Sauce",
             "description": "500 gm",
             "price": "100",
@@ -84,6 +108,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701005468.jpg"
         },
 	{
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Mango Jam",
             "description": "188 gm",
             "price": "70",
@@ -91,6 +117,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701019534_2.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Pizza And Pasta Sauce",
             "description": "200 gm",
             "price": "52",
@@ -98,6 +126,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011809051227_2.JPG"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Schezwan Sauce",
             "description": "200 gm",
             "price": "52",
@@ -105,6 +135,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011809051228_2.JPG"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Amul Cheese Slices",
             "description": "200 g",
             "price": "120",
@@ -112,6 +144,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001028.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Special K Multigrain And Honey Oats",
             "description": "290 gm",
             "price": "130",
@@ -119,6 +153,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701010760.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Saffola Masala Classic Oats",
             "description": "500 gm",
             "price": "185",
@@ -126,6 +162,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024590.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Nestle Everyday Dairy Whitener",
             "description": "250 gm",
             "price": "40",
@@ -133,6 +171,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000215.jpg"
         },
 	{
+		"discount": "",
+		"edescription": "",
             "name": "Kellogg's Special K Multigrain And Honey Oats",
             "description": "290 gm",
             "price": "130",
@@ -140,6 +180,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701010760.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Saffola Masala Peppy Tomato Oats",
             "description": "40 gm",
             "price": "14",
@@ -147,6 +189,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024588.jpg"
         },
         {
+		"discount": "",
+		"edescription": "",
             "name": "Kissan Mixed Fruit Jam",
             "description": "100 gm",
             "price": "30",
@@ -154,6 +198,8 @@
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701002670_2.jpg"
         },
 {
+	"discount": "",
+		"edescription": "",
             "name": "Top's Tomato Ketchup",
             "description": "200 gm",
             "price": "50",
