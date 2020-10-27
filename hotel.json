@@ -1,37 +1,47 @@
 [
         {
+                 "discount": "",
+		"edescription": "",
             "name": "Rosted Chicken fry",
             "description": "1 plate 4 Pieces",
             "price": "100",
-            "chipsid": R21,
+            "chipsid": "R21",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/rostedchicken_kohHzqGF_.jpg"
         },
         {
+                 "discount": "",
+		"edescription": "",
             "name": "Chicken fry",
             "description": "1 plate 1 Leg and 4 Pieces",
             "price": "125",
-            "chipsid": R22,
+            "chipsid": "R22",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/chickenfry_C0t4Pj-DAy.jpg"
         },
         {
+                 "discount": "",
+		"edescription": "",
             "name": "Butter Chicken",
             "description": "1 Plate 6 Paneer Pieces",
             "price": "100",
-            "chipsid": R23,
+            "chipsid": "R23",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/butterchicken_pDb4DRbYpN.jpg"
         },
         {
+                 "discount": "",
+		"edescription": "",
             "name": "Sahipaneer",
             "description": "1 Plate 6 Paneer Pieces",
             "price": "110",
-            "chipsid": R24,
+            "chipsid": "R24",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/shahipaneer_UmwJM--Jsg.jpg"
         },
         {
+                 "discount": "",
+		"edescription": "",
             "name": "Sahipaneer White",
             "description": "1 Plate 6 Paneer Pieces",
             "price": "110",
-            "chipsid": R25,
+            "chipsid": "R25",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/sahipaneer_lccAKB6-2X.jpg"
         }
     ]
