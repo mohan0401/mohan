@@ -1,7 +1,7 @@
 [
         {
-                 "discount": "",
-		"edescription": "",
+                 "discount": "10",
+		"edescription": "a",
             "name": "Rosted Chicken fry",
             "description": "1 plate 4 Pieces",
             "price": "100",
@@ -9,8 +9,8 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/rostedchicken_kohHzqGF_.jpg"
         },
         {
-                 "discount": "",
-		"edescription": "",
+                 "discount": "2",
+		"edescription": "b",
             "name": "Chicken fry",
             "description": "1 plate 1 Leg and 4 Pieces",
             "price": "125",
@@ -18,8 +18,8 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/chickenfry_C0t4Pj-DAy.jpg"
         },
         {
-                 "discount": "",
-		"edescription": "",
+                 "discount": "2",
+		"edescription": "c",
             "name": "Butter Chicken",
             "description": "1 Plate 6 Paneer Pieces",
             "price": "100",
@@ -27,8 +27,8 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/butterchicken_pDb4DRbYpN.jpg"
         },
         {
-                 "discount": "",
-		"edescription": "",
+                 "discount": "4",
+		"edescription": "d",
             "name": "Sahipaneer",
             "description": "1 Plate 6 Paneer Pieces",
             "price": "110",
@@ -36,8 +36,8 @@
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/shahipaneer_UmwJM--Jsg.jpg"
         },
         {
-                 "discount": "",
-		"edescription": "",
+                 "discount": "2",
+		"edescription": "e",
             "name": "Sahipaneer White",
             "description": "1 Plate 6 Paneer Pieces",
             "price": "110",
