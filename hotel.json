@@ -1,47 +1,52 @@
 [
         {
-                 "discount": "10",
-		"edescription": "a",
-            "name": "Rosted Chicken fry",
-            "description": "1 plate 4 Pieces",
+            "name": "Roasted Chicken Fry ",
+            "description": "1 Plate 4 Pieces ",
             "price": "100",
             "chipsid": "R21",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/rostedchicken_kohHzqGF_.jpg"
+            "edescription": "a",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/rostedchicken_kohHzqGF_.jpg",
+            "discount": "10",
+            "dprice": "90"
         },
         {
-                 "discount": "2",
-		"edescription": "b",
-            "name": "Chicken fry",
-            "description": "1 plate 1 Leg and 4 Pieces",
-            "price": "125",
+            "name": "Chicken Fry ",
+            "description": "1 Plate 1 Leg and 4 Pieces ",
+            "price": "150",
             "chipsid": "R22",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/chickenfry_C0t4Pj-DAy.jpg"
+            "edescription": "b",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/chickenfry_C0t4Pj-DAy.jpg",
+            "discount": "5",
+            "dprice": "143"
         },
         {
-                 "discount": "2",
-		"edescription": "c",
-            "name": "Butter Chicken",
-            "description": "1 Plate 6 Paneer Pieces",
-            "price": "100",
+            "name": "Butter Chicken ",
+            "description": "1 Plate 6 Paneer Pieces ",
+            "price": "140",
             "chipsid": "R23",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/butterchicken_pDb4DRbYpN.jpg"
+            "edescription": "c",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/butterchicken_pDb4DRbYpN.jpg",
+            "discount": "3",
+            "dprice": "136"
         },
         {
-                 "discount": "4",
-		"edescription": "d",
-            "name": "Sahipaneer",
-            "description": "1 Plate 6 Paneer Pieces",
-            "price": "110",
+            "name": "Sahipaneer ",
+            "description": "1 Plate 6 Paneer Pieces ",
+            "price": "100",
             "chipsid": "R24",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/shahipaneer_UmwJM--Jsg.jpg"
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/shahipaneer_UmwJM--Jsg.jpg",
+            "discount": "2",
+            "dprice": "98"
         },
         {
-                 "discount": "2",
-		"edescription": "e",
-            "name": "Sahipaneer White",
-            "description": "1 Plate 6 Paneer Pieces",
-            "price": "110",
+            "name": "Sahipaneer white ",
+            "description": "1 Plate 6 Paneer Pieces ",
+            "price": "200",
             "chipsid": "R25",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/sahipaneer_lccAKB6-2X.jpg"
+            "edescription": "e",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/sahipaneer_lccAKB6-2X.jpg",
+            "discount": "1",
+            "dprice": "198"
         }
     ]
