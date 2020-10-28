@@ -1,268 +1,292 @@
 [
         {
-            "discount": "10",
-	    "name": "Oppo A1K",
+            "name": "Oppo A1K",
             "description": "2 GB RAM 32 GB ROM",
             "price": "7990",
             "chipsid": "PMS1",
-		"edescription": "Dispaly:6.1''  Dual SIM (Nano-SIM, dual stand-by)  Android 9.0 (Pie) Camera 8MP/5MP with flash 3.5mm 4000 MaH Battery",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo-A1k_rQXoVnGd_Tw_7nwqUZ1iY.jpg"
-		
+            "edescription": "Dispaly:6.1''  Dual SIM (Nano-SIM, dual stand-by)  Android 9.0 (Pie) Camera 8MP/5MP with flash 3.5mm 4000 MaH Battery",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo-A1k_rQXoVnGd_Tw_7nwqUZ1iY.jpg",
+            "discount": "10",
+            "dprice": "7191"
         },
         {
-            "discount": "12",
-	    "name": "Vivo V19",
+            "name": "Vivo V19",
             "description": "8 GB RAM 256 GB ROM",
             "price": "27490",
             "chipsid": "PMS2",
+            "edescription": "Dispaly:6.44'' Dual SIM (Nano-SIM)  Android 10 Camera 48MP,8MP,2MP,2MP/32MP,8MP with flash 3.5mm 4500 MaH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Vivo_v19_ghkjU22Jos.jpg",
-		"edescription": " Dispaly:6.44'' Dual SIM (Nano-SIM)  Android 10 Camera 48MP,8MP,2MP,2MP/32MP,8MP with flash 3.5mm 4500 MaH Battery "
+            "discount": "5",
+            "dprice": "26116"
         },
         {
-		"discount": "12",
             "name": "Real Me 7i",
             "description": "8 GB RAM 128 GB ROM",
             "price": "16750",
             "chipsid": "PMS3",
+            "edescription": "Dispaly:6.5''  Dual SIM (Nano-SIM)  Android 9.0 (Pie) Camera 64MP,8MP,2MP,2MP/16MP with flash 3.5mm 5000 MaH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme7i_W_oGZweBU.jpg",
-		"edescription": "Dispaly:6.5''  Dual SIM (Nano-SIM)  Android 9.0 (Pie) Camera 64MP,8MP,2MP,2MP/16MP with flash 3.5mm 5000 MaH Battery"
-        },        
-        {
-		"discount": "12",
-            "name": "Oppo A15",
-            "description": "3 GB RAM 32 GB Storage ",
-            "price": "10990",
-           "chipsid": "PMS4",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/oppoa15_rCahU_cDJRSc.jpg",
-		"edescription": "Display 6.62'', 4230 Mah Battery, 13 MP,2MP/2MP Camera, Android 10 Processor Media Tek Helio P35 "
+            "discount": "5",
+            "dprice": "15913"
         },
         {
-		"discount": "12",
+            "name": "Oppo A15",
+            "description": "3 GB RAM 32 GB Storage",
+            "price": "10990",
+            "chipsid": "PMS4",
+            "edescription": "Display 6.62'', 4230 Mah Battery, 13 MP,2MP/2MP Camera, Android 10 Processor Media Tek Helio P35",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/oppoa15_rCahU_cDJRSc.jpg",
+            "discount": "6",
+            "dprice": "10331"
+        },
+        {
             "name": "Real Me X3",
             "description": "8 GB 128GB ROM",
             "price": "25999",
             "chipsid": "PMS5",
+            "edescription": "1216 Super liner Speaker, 64 MP Quad Camera, 4200mAH Battery, 6.6 inch Display,USB Type C Cable, Android Corning Forilla Glass",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg",
-		"edescription": "1216 Super liner Speaker, 64 MP Quad Camera, 4200mAH Battery, 6.6 inch Display,USB Type C Cable, Android Corning Forilla Glass"
+            "discount": "10",
+            "dprice": "23399"
         },
-	{
-		"discount": "12",
+        {
             "name": "Real Me X3",
             "description": "6 GB 128GB ROM",
             "price": "24999",
             "chipsid": "PMS5i",
+            "edescription": "216 Super liner Speaker, 64 MP Quad Camera, 4200mAH Battery, 6.6 inch Display,USB Type C Cable, Android Corning Forilla Glass",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x30_22Fhn_feRP5K.jpeg",
-		"edescription": "1216 Super liner Speaker, 64 MP Quad Camera, 4200mAH Battery, 6.6 inch Display,USB Type C Cable, Android Corning Forilla Glass"
-        }, 
+            "discount": "5",
+            "dprice": "23749"
+        },
         {
-		"discount": "12",
             "name": "Real Me X3 Superzoom",
             "description": "12 GB 256 GB",
             "price": "32999",
             "chipsid": "PMS6",
+            "edescription": "Display 6.6'', Camera 64MP/8MP/8MP/2MP Rear Flash/ 32 MP/8MP Front Camera, Sim Size Nano 4200 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/x3_superzoom_aBxkEoVlps.jpg",
-		"edescription": "Display 6.6'', Camera 64MP/8MP/8MP/2MP Rear Flash/ 32 MP/8MP Front Camera, Sim Size Nano 4200 mAH Battery,  "
+            "discount": "9",
+            "dprice": "30029"
         },
         {
-		"discount": "12",
             "name": "Real Me C12",
             "description": "3GB RAM 32 GB Storage",
             "price": "8780",
             "chipsid": "PMS7",
+            "edescription": "Dispaly 6.52'', Camera 13MP/2MP/2MP Tripple Primary Camera LED Flash, 5MP Front Camera, 6000 mAH Battery Micro USB Ports",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/C12_UJea0gPL-N.jpg",
-		"edescription": "Dispaly 6.52'', Camera 13MP/2MP/2MP Tripple Primary Camera LED Flash, 5MP Front Camera, 6000 mAH Battery Micro USB Ports"
-        },	
+            "discount": "10",
+            "dprice": "7902"
+        },
         {
-		"discount": "12",
             "name": "Real Me C15",
             "description": "3GB RAM 32GB Storage",
             "price": "9621",
             "chipsid": "PMS8",
+            "edescription": "Display 6.52'', Octacore 2.3GHz Helio G35, Camera 13MP/8MP/2MP/2MP Quad Primary 8MP Front, 6000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/C15_IXm9hoQRv.jpg",
-		"edescription": "Display 6.52'', Octacore 2.3GHz Helio G35, Camera 13MP/8MP/2MP/2MP Quad Primary 8MP Front, 6000 mAH Battery"
+            "discount": "5",
+            "dprice": "9140"
         },
-	{
-		"discount": "12",
+        {
             "name": "Real Me C11",
             "description": "2GB RAM 32 GB Storage",
             "price": "8999",
             "chipsid": "PMS9",
+            "edescription": "Display 6.52'', Octacore 2.3GHz Helio G35, Camera 13MP/2MP Primary 5MP Front, 5000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/RealmeC11_J3WkMOATxJ.jpeg",
-		"edescription": "Display 6.52'', Octacore 2.3GHz Helio G35, Camera 13MP/2MP Primary 5MP Front, 5000 mAH Battery"
+            "discount": "1",
+            "dprice": "8909"
         },
         {
-		"discount": "12",
             "name": "Vivo Y91",
-            "description": "2 GB RAM 16 GB Storage ",
+            "description": "2 GB RAM 16 GB Storage",
             "price": "7990",
             "chipsid": "PMS10",
+            "edescription": "Display 6.22'', Octacore 2GHz Helio P22, Camera 13MP Primary 5MP Front LED Flash, 4030 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Vivo_y91_Q9HQum_M9sG.jpeg",
-		"edescription": "Display 6.22'', Octacore 2GHz Helio P22, Camera 13MP Primary 5MP Front LED Flash, 4030 mAH Battery"
+            "discount": "2",
+            "dprice": "7830"
         },
-	{
-		"discount": "12",
+        {
             "name": "Vivo Y11",
             "description": "3GB RAM 32GB ROM",
             "price": "8991",
             "chipsid": "PMS11",
+            "edescription": "Display 6.35'', Octacore 1.95 GHz + 1.45GHz Quad Core, Camera 13MP/2MP Quad Primary 8MP Front, 5000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/vivo711_wdawy7PuY.jpg",
-		"edescription": "Display 6.35'', Octacore 1.95 GHz + 1.45GHz Quad Core, Camera 13MP/2MP Quad Primary 8MP Front, 5000 mAH Battery"
+            "discount": "3",
+            "dprice": "8721"
         },
         {
-		"discount": "12",
             "name": "Real Me X50 Pro 5G",
             "description": "12 GB RAM 256 GB ROM",
             "price": "44999",
             "chipsid": "PMS12",
+            "edescription": "Display 6.44'', Octacore 2.84GHz, Single Core +2.42 GHz Tri core, Camera 64MP/12MP/8MP/2MP Quad Primary 32MP/8MP Front, 4200 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg",
-		"edescription": "Display 6.44'', Octacore 2.84GHz, Single Core +2.42 GHz Tri core, Camera 64MP/12MP/8MP/2MP Quad Primary 32MP/8MP Front, 4200 mAH Battery"
+            "discount": "5",
+            "dprice": "42749"
         },
-	{
-		"discount": "12",
+        {
             "name": "Real Me X50 Pro 5G",
             "description": "8 GB RAM 128 GB ROM",
             "price": "39999",
             "chipsid": "PMS12i",
+            "edescription": "Display 6.44'', Octacore 2.84GHz, Single Core +2.42 GHz Tri core, Camera 64MP/12MP/8MP/2MP Quad Primary 32MP/8MP Front, 4200 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg",
-		"edescription": "Display 6.44'', Octacore 2.84GHz, Single Core +2.42 GHz Tri core, Camera 64MP/12MP/8MP/2MP Quad Primary 32MP/8MP Front, 4200 mAH Battery"
+            "discount": "6",
+            "dprice": "37599"
         },
-	{
-		"discount": "12",
+        {
             "name": "Real Me X50 Pro 5G",
             "description": "6 GB RAM 128 GB ROM",
             "price": "37999",
             "chipsid": "PMS12j",
+            "edescription": "Display 6.44'', Octacore 2.84GHz, Single Core +2.42 GHz Tri core, Camera 64MP/12MP/8MP/2MP Quad Primary 32MP/8MP Front, 4200 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg",
-		"edescription": "Display 6.44'', Octacore 2.84GHz, Single Core +2.42 GHz Tri core, Camera 64MP/12MP/8MP/2MP Quad Primary 32MP/8MP Front, 4200 mAH Battery"
+            "discount": "7",
+            "dprice": "35339"
         },
         {
-		"discount": "12",
             "name": "Vivo X50",
             "description": "8 GB RAM 128 GB ROM",
             "price": "31491",
             "chipsid": "PMS13",
+            "edescription": "Display 6.56'', 2.2GHz, +1.8 GHz Hexa core, Camera 48MP/13MP/8MP/5MP Quad Primary With Flash 32MP Front, 4200 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__25__ggu6c4cPQ0.jpeg",
-		"edescription": "Display 6.56'', 2.2GHz, +1.8 GHz Hexa core, Camera 48MP/13MP/8MP/5MP Quad Primary With Flash 32MP Front, 4200 mAH Battery"
+            "discount": "8",
+            "dprice": "28972"
         },
-	{
-		"discount": "12",
+        {
             "name": "Vivo X50",
             "description": "8 GB RAM 256 GB ROM",
             "price": "34491",
             "chipsid": "PMS13i",
+            "edescription": "Display 6.56'', 2.2GHz, +1.8 GHz Hexa core, Camera 48MP/13MP/8MP/5MP Quad Primary With Flash 32MP Front, 4200 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__25__ggu6c4cPQ0.jpeg",
-		"edescription": "Display 6.56'', 2.2GHz, +1.8 GHz Hexa core, Camera 48MP/13MP/8MP/5MP Quad Primary With Flash 32MP Front, 4200 mAH Battery"
+            "discount": "5",
+            "dprice": "32766"
         },
-	{
-		"discount": "12",
+        {
             "name": "Oppo A12",
             "description": "3GB RAM 32GB ROM",
             "price": "8991",
             "chipsid": "PMS14",
+            "edescription": "Display 6.22'', 2.3GHz, Camera 13MP/2MP Quad Primary With Flash 5MP Front, 4230 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo_A12_ZpvtHBmvN8q.jpg",
-		"edescription": "Display 6.22'', 2.3GHz, Camera 13MP/2MP Quad Primary With Flash 5MP Front, 4230 mAH Battery"
+            "discount": "6",
+            "dprice": "8452"
         },
-	 {
-		 "discount": "12",
+        {
             "name": "Vivo Y50",
             "description": "8GB RAM 128GB ROM",
             "price": "16990",
             "chipsid": "PMS15",
+            "edescription": "Display 6.53'', Octacore 2GHz +1.8 GHz Quad core, Camera 13MP/8MP/2MP/2MP Quad Primary 16MP Front, 5000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/y50_-hnoQ8MLXmHi.jpeg",
-		 "edescription": "Display 6.53'', Octacore 2GHz +1.8 GHz Quad core, Camera 13MP/8MP/2MP/2MP Quad Primary 16MP Front, 5000 mAH Battery"
+            "discount": "8",
+            "dprice": "15631"
         },
-	{
-		"discount": "12",
+        {
             "name": "Oppo F17",
-            "description": " 8 GB RAM 128 GB ROM",
+            "description": "8 GB RAM 128 GB ROM",
             "price": "18999",
             "chipsid": "PMS16",
+            "edescription": "Display 6.44'', Quadcore 2GHz, +1.8 GHz Quad core, Camera 16MP/8MP/2MP/2MP Quad Primary 16MP Front, 4015 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/F17_8_GB_128_GB_hObpYuJfEGQy.jpeg",
-		"edescription": "Display 6.44'', Quadcore 2GHz, +1.8 GHz Quad core, Camera 16MP/8MP/2MP/2MP Quad Primary 16MP Front, 4015 mAH Battery"
+            "discount": "9",
+            "dprice": "17289"
         },
-	{
-		"discount": "12",
+        {
             "name": "Oppo A11k",
             "description": "2GB RAM 32 GB ROM",
             "price": "8990",
             "chipsid": "PMS17",
+            "edescription": "Display 6.22'', Octacore 2.3GHz Media Tek Helio P35, Camera 13MP/2MP Primary 5MP Front, 4230 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Oppo_A11k_1MHQBYuYt8c.jpeg",
-		"edescription": "Display 6.22'', Octacore 2.3GHz Media Tek Helio P35, Camera 13MP/2MP Primary 5MP Front, 4230 mAH Battery"
+            "discount": "5",
+            "dprice": "8541"
         },
-	 {
-		 "discount": "12",
+        {
             "name": "Oppo F17 Pro",
             "description": "8 GB RAM",
             "price": "20999",
             "chipsid": "PMS18",
+            "edescription": "Display 6.43'', Octacore 2.2GHz +2 GHz Hexa core, Camera 48MP/8MP/2MP/2MP Quad Primary 16MP/2MP Dual Front, 4015 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__19__0NNWzLrLN.jpeg",
-		 "edescription": "Display 6.43'', Octacore 2.2GHz +2 GHz Hexa core, Camera 48MP/8MP/2MP/2MP Quad Primary 16MP/2MP Dual Front, 4015 mAH Battery"
+            "discount": "6",
+            "dprice": "19739"
         },
-	
-	{
-		"discount": "12",
+        {
             "name": "Vivo Y30",
             "description": "4GB RAM 128GB ROM",
             "price": "12999",
             "chipsid": "PMS19",
+            "edescription": "Display 6.47'', Octacore 2.3GHz Media Tek Helio P35, Camera 13MP/8MP/2MP/2MP Quad Primary 8MP Front, 5000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Y30_qXw_eIS_Muee.jpeg",
-		"edescription": "Display 6.47'', Octacore 2.3GHz Media Tek Helio P35, Camera 13MP/8MP/2MP/2MP Quad Primary 8MP Front, 5000 mAH Battery"
+            "discount": "2",
+            "dprice": "12739"
         },
-	{
-		"discount": "12",
+        {
             "name": "Real Me 7",
             "description": "6 GB 64 GB ROM",
             "price": "14500",
             "chipsid": "PMS20",
+            "edescription": "Display 6.5'', Dualcore 2.05GHz, +2 GHz Hexa core, Camera 64MP/8MP/2MP/2MP Quad Primary 16MP Front, 5000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme7_m6UlUuYWRz.jpeg",
-		"edescription": "Display 6.5'', Dualcore 2.05GHz, +2 GHz Hexa core, Camera 64MP/8MP/2MP/2MP Quad Primary 16MP Front, 5000 mAH Battery"
+            "discount": "2",
+            "dprice": "14210"
         },
-	
-	{
-		"discount": "12",
+        {
             "name": "Vivo V20",
             "description": "8 GB 128 GB ROM",
             "price": "24990",
             "chipsid": "PMS21",
+            "edescription": "Display 6.44'', Octacore 2.3GHz,+1.8 GHz Hexa core, Camera 64MP/8MP/2MP Tripple Primary 44MP Front, 4000 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__23__UK4JLLq8dz-3.jpeg",
-		"edescription": "Display 6.44'', Octacore 2.3GHz,+1.8 GHz Hexa core, Camera 64MP/8MP/2MP Tripple Primary 44MP Front, 4000 mAH Battery"
+            "discount": "7",
+            "dprice": "23241"
         },
-	{
-		"discount": "12",
+        {
             "name": "Vivo S1 Pro",
             "description": "8GB RAM 128GB ROM",
             "price": "17999",
             "chipsid": "PMS22",
+            "edescription": "Display 6.38'', Octacore 2GHz +1.8 GHz Quad core, Camera 48MP/8MP/2MP/2MP Quad Primary 32MP Front back LED Flash, 4500 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__22__QppBOYjxF.jpeg",
-		"edescription": "Display 6.38'', Octacore 2GHz +1.8 GHz Quad core, Camera 48MP/8MP/2MP/2MP Quad Primary 32MP Front back LED Flash, 4500 mAH Battery"
+            "discount": "8",
+            "dprice": "16559"
         },
-	
-	{
-		"discount": "12",
+        {
             "name": "Real Me 6 Pro",
             "description": "6 GB RAM 64 GB ROM",
             "price": "17999",
             "chipsid": "PMS23",
+            "edescription": "Display 6.6'', Octacore 2.3GHz, Dual Core +1.8 GHz Hexa core, Camera 64MP/8MP/12MP/2MP Quad Primary 16MP/8MP Front LED flash, 4300 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Relalme6pro_A8Q8Bn6xWX.jpeg",
-		"edescription": "Display 6.6'', Octacore 2.3GHz, Dual Core +1.8 GHz Hexa core, Camera 64MP/8MP/12MP/2MP Quad Primary 16MP/8MP Front LED flash, 4300 mAH Battery"
+            "discount": "9",
+            "dprice": "16379"
         },
-	{
-		"discount": "12",
+        {
             "name": "Oppo Reno 3 Pro",
             "description": "8GB RAM 128GB ROM",
             "price": "23999",
             "chipsid": "PMS24",
+            "edescription": "Display 6.4'', Octacore 2.2GHz, Dual Core +2 GHz Hexa core, Camera 64MP/13MP/8MP/2MP Quad Primary 44MP/2MP Front, 4025 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Reno_3_pro_etyTi8RRv.jpeg",
-		"edescription": "Display 6.4'', Octacore 2.2GHz, Dual Core +2 GHz Hexa core, Camera 64MP/13MP/8MP/2MP Quad Primary 44MP/2MP Front, 4025 mAH Battery"
+            "discount": "4",
+            "dprice": "23039"
         },
-	
-	{
-		"discount": "15",
+        {
             "name": "Real Me 6",
             "description": "4 GB RAM 64 GB ROM",
-            "price": "14900",
+            "price": "14990",
             "chipsid": "PMS25",
+            "edescription": "Display 6.5'', Octacore 2.05GHz, +2 GHz Hexa core, Camera 64MP/8MP/2MP/2MP Quad Primary 16MP Front, 4300 mAH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/Realme6_cSVeDH60fcf.jpeg",
-		"edescription": "Display 6.5'', Octacore 2.05GHz, +2 GHz Hexa core, Camera 64MP/8MP/2MP/2MP Quad Primary 16MP Front, 4300 mAH Battery"
+            "discount": "5",
+            "dprice": "14241"
         }
     ]
