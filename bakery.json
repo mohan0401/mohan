@@ -1,20 +1,30 @@
 [
         {
-                "discount": "",
-		"edescription": "",
             "name": "Strawberry Flavour Cake",
             "description": "500 gm",
-            "price": "150",
-            "chipsid": "bk1",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/cake1_IzaDOP6vV5.jpg"
+            "price": "300",
+            "chipsid": "BK1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/cake1_IzaDOP6vV5.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-                "discount": "",
-		"edescription": "",
             "name": "Cup Cake",
-            "description": "20 gm",
-            "price": "20",
-            "chipsid": "bk2",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/cupcake_BVAovJli6.jpg"
+            "description": "8 GB RAM 256 GB ROM",
+            "price": "300",
+            "chipsid": "PMS2",
+            "edescription": "Dispaly:6.44'' Dual SIM (Nano-SIM)  Android 10 Camera 48MP,8MP,2MP,2MP/32MP,8MP with flash 3.5mm 4500 MaH Battery",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/cupcake_BVAovJli6.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
