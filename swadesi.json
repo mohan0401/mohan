@@ -1,16 +1,30 @@
 [
         {
-            "name": "Arthoride Use full for bone pain",
-            "description": "100 ml",
-            "price": "95",
-            "chipsid": sw1,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Arthoride_funE9CCOvu.jpg"
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "SW1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Arthoride_funE9CCOvu.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Reduces BP and controls BP",
-            "description": "100 ml",
-            "price": "95",
-            "chipsid": sw2,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/B_P_Norm_YKcEAs0QgL.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "SW2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/B_P_Norm_YKcEAs0QgL.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
