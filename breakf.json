@@ -1,210 +1,44 @@
 [
         {
-		"discount": "",
-		"edescription": "",
-            "name": "Amul Pasturised Butter",
-            "description": "100 gm",
-            "price": "45",
-            "chipsid": "f1",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046675.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Chocolaty Breakfast Chocos",
-            "description": "700 gm",
-            "price": "290",
-            "chipsid": "f2",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000274.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Chocos Cereals",
-            "description": "1.2 kg",
-            "price": "460",
-            "chipsid": "f3",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046035.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Mixed Fruit Jam",
-            "description": "200 gm",
-            "price": "53",
-            "chipsid": "f4",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011804049645_2.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Original Corn Flakes",
-            "description": "100 gm",
-            "price": "45",
-            "chipsid": "f5",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000198.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Real Honey Corn Flakes",
-            "description": "300 gm",
-            "price": "135",
-            "chipsid": "f6",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001340.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Real Strawberry Corn Flakes",
-            "description": "275 gm",
-            "price": "130",
-            "chipsid": "f7",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001357.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Fresh Tomato Ketchup",
-            "description": "1 kg",
-            "price": "138",
-            "chipsid": "f8",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701027643_2.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Patanjali Honey",
-            "description": "1 kg",
-            "price": "270",
-            "chipsid": f9,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046560.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Dabur Honey",
-            "description": "250 gm",
-            "price": "122",
-            "chipsid": f10,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000633.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Fresh Tomato Ketchup",
-            "description": "450 gm",
-            "price": "48",
-            "chipsid": f11,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011711047981_2.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Twist Sweet And Spicy Sauce",
+            "name": "ke",
             "description": "500 gm",
-            "price": "100",
-            "chipsid": f12,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701005468.jpg"
-        },
-	{
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Mango Jam",
-            "description": "188 gm",
-            "price": "70",
-            "chipsid": f13,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701019534_2.jpg"
+            "price": "300",
+            "chipsid": "F1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027693.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Pizza And Pasta Sauce",
-            "description": "200 gm",
-            "price": "52",
-            "chipsid": f14,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011809051227_2.JPG"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Schezwan Sauce",
-            "description": "200 gm",
-            "price": "52",
-            "chipsid": f15,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011809051228_2.JPG"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Amul Cheese Slices",
-            "description": "200 g",
-            "price": "120",
-            "chipsid": f16,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001028.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Special K Multigrain And Honey Oats",
-            "description": "290 gm",
-            "price": "130",
-            "chipsid": f17,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701010760.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Saffola Masala Classic Oats",
+            "name": "C",
             "description": "500 gm",
-            "price": "185",
-            "chipsid": f18,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024590.jpg"
+            "price": "300",
+            "chipsid": "F2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049479.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-		"discount": "",
-		"edescription": "",
-            "name": "Nestle Everyday Dairy Whitener",
-            "description": "250 gm",
-            "price": "40",
-            "chipsid": f19,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000215.jpg"
-        },
-	{
-		"discount": "",
-		"edescription": "",
-            "name": "Kellogg's Special K Multigrain And Honey Oats",
-            "description": "290 gm",
-            "price": "130",
-            "chipsid": f20,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701010760.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Saffola Masala Peppy Tomato Oats",
-            "description": "40 gm",
-            "price": "14",
-            "chipsid": f21,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024588.jpg"
-        },
-        {
-		"discount": "",
-		"edescription": "",
-            "name": "Kissan Mixed Fruit Jam",
-            "description": "100 gm",
-            "price": "30",
-            "chipsid": f22,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/80011701002670_2.jpg"
-        },
-{
-	"discount": "",
-		"edescription": "",
-            "name": "Top's Tomato Ketchup",
-            "description": "200 gm",
-            "price": "50",
-            "chipsid": f23,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037538.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "F3",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001184.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
-
     ]
