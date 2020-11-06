@@ -1,52 +1,30 @@
 [
         {
-            "name": "Roasted Chicken Fry ",
-            "description": "1 Plate 4 Pieces ",
-            "price": "100",
-            "chipsid": "R21",
-            "edescription": "a",
+            "name": "Roasted Chicken Fry",
+            "description": "1 Plate 4 Pieces",
+            "price": "90",
+            "chipsid": "Hot1",
+            "edescription": "Dispaly:6.1''  Dual SIM (Nano-SIM, dual stand-by)  Android 9.0 (Pie) Camera 8MP/5MP with flash 3.5mm 4000 MaH Battery",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/rostedchicken_kohHzqGF_.jpg",
             "discount": "10",
-            "dprice": "90"
+            "dprice": "81",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Only in Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Be Satisfied"
         },
         {
-            "name": "Chicken Fry ",
-            "description": "1 Plate 1 Leg and 4 Pieces ",
-            "price": "150",
-            "chipsid": "R22",
+            "name": "Chicken Fry",
+            "description": "1 Plate 1 Leg and 4 Pieces",
+            "price": "90",
+            "chipsid": "Hot2",
             "edescription": "b",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/chickenfry_C0t4Pj-DAy.jpg",
-            "discount": "5",
-            "dprice": "143"
-        },
-        {
-            "name": "Butter Chicken ",
-            "description": "1 Plate 6 Paneer Pieces ",
-            "price": "140",
-            "chipsid": "R23",
-            "edescription": "c",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/butterchicken_pDb4DRbYpN.jpg",
-            "discount": "3",
-            "dprice": "136"
-        },
-        {
-            "name": "Sahipaneer ",
-            "description": "1 Plate 6 Paneer Pieces ",
-            "price": "100",
-            "chipsid": "R24",
-            "edescription": "d",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/shahipaneer_UmwJM--Jsg.jpg",
-            "discount": "2",
-            "dprice": "98"
-        },
-        {
-            "name": "Sahipaneer white ",
-            "description": "1 Plate 6 Paneer Pieces ",
-            "price": "200",
-            "chipsid": "R25",
-            "edescription": "e",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/sahipaneer_lccAKB6-2X.jpg",
-            "discount": "1",
-            "dprice": "198"
+            "discount": "10",
+            "dprice": "81",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Only in Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Be Satisfied"
         }
-    ]
+]
