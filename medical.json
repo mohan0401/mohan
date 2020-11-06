@@ -1,23 +1,44 @@
 [
         {
-            "name": "Best Body Immuno Booster",
-            "description": "50 Tablets",
-            "price": "350",
-            "chipsid": me1,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/immuno_LYa8oRETT2.jpg"
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "ME1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027693.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Immuno booster with Vitamin C",
-            "description": "50 Tablets",
-            "price": "340",
-            "chipsid": me2,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/immune2_cxzNvx3eyH.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "ME2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049479.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Immuno booster with Vitamin C",
-            "description": "50 Tablets",
-            "price": "340",
-            "chipsid": me3,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/immune2_cxzNvx3eyH.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "ME3",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001184.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
