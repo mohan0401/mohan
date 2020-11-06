@@ -1,200 +1,45 @@
 [
         {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Pineapple Cream Biscuit",
-            "description": "1 Pc 60 gm",
-            "price": "10",
-            "chipsid": "i1",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011907101396.jpg"
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "BI1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027693.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Hi Fibre Biscuits",
-            "description": "100 gm",
-            "price": "20",
-            "chipsid": "i2",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701019660.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "BI2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049479.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Bourbon Biscuits",
-            "description": "60 gm",
-            "price": "10",
-            "chipsid": "i3",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011907101367.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Sunfeast Mom's Magic Cookies",
-            "description": "76 gm",
-            "price": "10",
-            "chipsid": "i4",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011903083506.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Parle G Gluco Biscuits",
-            "description": "800 gm",
-            "price": "65",
-            "chipsid": "i5",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/7004085037060.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Treat Kool Vanilla Biscuits",
-            "description": "60 gm",
-            "price": "10",
-            "chipsid": "i6",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011802048540.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Sunfeast Bounce Choco cream Biscuits",
-            "description": "100 gm",
-            "price": "10",
-            "chipsid": "i7",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701031140.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Sunfeast Bounce tangy Orange Biscuits",
-            "description": "50 gm",
-            "price": "5",
-            "chipsid": "i8",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024686.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Sunfeast Mom's Magic Cashew Cookies",
-            "description": "66 gm",
-            "price": "10",
-            "chipsid": "i9",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701024679.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Treat Orange Biscuits",
-            "description": "75 gm",
-            "price": "10",
-            "chipsid": "i10",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701021804.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Treat Jim Jam Biscuits",
-            "description": "62 gm",
-            "price": "10",
-            "chipsid": "i11",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701003208.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Sunfeast Glucose Biscuits ",
-            "description": "72 gm",
-            "price": "5",
-            "chipsid": "i12",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001306.jpg"
-        },
-{
-        "discount": "",
-		"edescription": "",
-            "name": "Unibic Anzac Oatmeal Cookies",
-            "description": "75 gm",
-            "price": "25",
-            "chipsid": "i13",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701008855.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Parle Krack Jack ",
-            "description": "75 gm",
-            "price": "10",
-            "chipsid": "i14",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000053.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Cadbury Bournvita Cookies",
-            "description": "50 gm",
-            "price": "10",
-            "chipsid": "i15",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037326.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Cadbury Orea Vanilla Cream Biscuits",
-            "description": "50 gm",
-            "price": "10",
-            "chipsid": "i16",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701021369.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Parle G Gluco Biscuits",
-            "description": "65 gm",
-            "price": "5",
-            "chipsid": "i17",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000044.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania 50-50 Sweet Salty Biscuits",
-            "description": "200 gm",
-            "price": "25",
-            "chipsid": "i18",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize/image_humarashop/data/60011701037315.png"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Parle Hide & Seek Biscuits",
-            "description": "150 gm",
-            "price": "30",
-            "chipsid": "i19",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046433.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Patanjali Nariyal Biscuits",
-            "description": "300 gm",
-            "price": "29",
-            "chipsid": "i20",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011802048526.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Parle G Gold",
-            "description": "112 gm",
-            "price": "10",
-            "chipsid": "i21",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701023340.jpg"
-        },
-        {
-                "discount": "",
-		"edescription": "",
-            "name": "Britania Tiger Glucose Biscuits",
-            "description": "70 gm",
-            "price": "5",
-            "chipsid": "i22",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037281.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "BI3",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001184.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
+
