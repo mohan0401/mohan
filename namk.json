@@ -1,128 +1,44 @@
 [
         {
-            "name": "Bingo Mad Angles Masala",
-            "description": "80 gm",
-            "price": "20",
-            "chipsid": n1,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011908088843.jpg"
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "N1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027693.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Haldiram Punjabi Tadka",
-            "description": "200 gm",
-            "price": "48",
-            "chipsid": n2,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011908088324.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "N2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011804049479.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Haldiram Kashmir Mix",
-            "description": "200 gm",
-            "price": "67",
-            "chipsid": n3,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011908088276.jpg"
-        },
-        {
-            "name": "Haldiram Navratan Mix",
-            "description": "230 gm",
-            "price": "42",
-            "chipsid": n4,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/7004089235498.jpg"
-        },
-        {
-            "name": "Haldiram Boondi",
-            "description": "200 gm",
-            "price": "55",
-            "chipsid": n5,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037602.jpg"
-        },
-        {
-            "name": "Haldiram Classic Slated Peanuts",
-            "description": "150 gm",
-            "price": "46",
-            "chipsid": n6,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027945.jpg"
-        },
-        {
-            "name": "Kurkure Masala Manch Namkeen",
-            "description": "102 gm",
-            "price": "20",
-            "chipsid": n7,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701000068.jpg"
-        },
-        {
-            "name": "Haldiram Heeng Jeera Chana Cracker",
-            "description": "200 gm",
-            "price": "48",
-            "chipsid": n8,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701045974.jpg"
-        },
-        {
-            "name": "Haldiram Moong Dal Namkeen",
-            "description": "1 kg + 200 gm",
-            "price": "240",
-            "chipsid": n9,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049078.jpg"
-        },
-        {
-            "name": "Haldiram Khatta Meetha",
-            "description": "230 gm",
-            "price": "42",
-            "chipsid": n10,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701046565.jpg"
-        },
-        {
-            "name": "Haldiram Khatta Meetha",
-            "description": "460 gm",
-            "price": "85",
-            "chipsid": n11,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701027948.jpg"
-        },
-        {
-            "name": "Haldiram Kaju Mixture",
-            "description": "400 gm",
-            "price": "139",
-            "chipsid": n12,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701029513.jpg"
-        },
-	{
-            "name": "Haldiram Fatafat Mixture",
-            "description": "150 gm",
-            "price": "30",
-            "chipsid": n13,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037382.jpg"
-        },
-        {
-            "name": "Haldiram Classis Peanuts",
-            "description": "200 gm",
-            "price": "46",
-            "chipsid": n14,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037376.jpg"
-        },
-        {
-            "name": "Haldiram All in one Namkeen",
-            "description": "200 gm",
-            "price": "50",
-            "chipsid": n15,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701029871.jpg"
-        },
-        {
-            "name": "Haldiram Bhujia",
-            "description": "1 kg",
-            "price": "215",
-            "chipsid": n16,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049037.jpg"
-        },
-        {
-            "name": "Haldiram PanchRatan",
-            "description": "200 gm",
-            "price": "82",
-            "chipsid": n17,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701029886.jpg"
-        },
-        {
-            "name": "Haldiram Khatta Meetha Namkeen",
-            "description": "460 gm",
-            "price": "83",
-            "chipsid": n18,
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011803049068.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "N3",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001184.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
