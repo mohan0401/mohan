@@ -1,23 +1,44 @@
 [
         {
-            "name": "Saffola Less Sodium Salt Plus",
-            "description": "1 kg",
-            "price": "31",
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
             "chipsid": "SPI1",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030574.jpg"
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030574.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Tata Iodised Salt",
-            "description": "1 kg",
-            "price": "19",
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
             "chipsid": "SPI2",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg"
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Sugar (Sakhar\ Shakkar\ Chini)",
-            "description": "1 kg",
-            "price": "40",
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
             "chipsid": "SPI3",
-            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg"
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
-]
+    ]
