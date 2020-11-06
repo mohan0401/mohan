@@ -1,24 +1,44 @@
 [
-      {
-            "name": "Lays-Tomato",
-            "description": "59 gm",
-            "price": "20",
-            "chipsid": "ad1",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg"
-      },
-      {
-            "name": "Lays-Tomato",
-            "description": "59 gm",
-            "price": "20",
-            "chipsid": "ad2",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__19__0NNWzLrLN.jpeg"
+        {
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "AD1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__26__PyPwJBvEu.jpeg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
-      
-      {
-            "name": "Lays-Tomato",
-            "description": "59 gm",
-            "price": "20",
-            "chipsid": "ad3",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__23__UK4JLLq8dz-3.jpeg"
+        {
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "AD2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__19__0NNWzLrLN.jpeg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
+        },
+        {
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "AD3",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pandey_Mobile/images__23__UK4JLLq8dz-3.jpeg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
