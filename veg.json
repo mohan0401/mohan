@@ -1,23 +1,30 @@
 [
         {
-            "name": "Fresh Lady Finger",
-            "description": "1 Kg",
-            "price": "40",
-            "chipsid": vs1,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/ladyfinger_dZY_UCsjN.jpg"
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "VS1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/ladyfinger_dZY_UCsjN.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         },
         {
-            "name": "Fresh Pumpkin",
-            "description": "1 Kg",
-            "price": "45",
-            "chipsid": vs2,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/pumpkin_LEgqkHAod2.jpg"
-        },
-        {
-            "name": "Fresh Tomato",
-            "description": "1 Kg",
-            "price": "40",
-            "chipsid": vs3,
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/tomato_OD6mnpUOeh.jpg"
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "VS2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/pumpkin_LEgqkHAod2.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
     ]
