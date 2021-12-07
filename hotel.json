@@ -1,17 +1,17 @@
 [
         {
-            "name": "Saffola Salt Plus",
-            "description": "500 gm",
-            "price": "300",
+            "name": "Saffola Less Sodium Salt Plus",
+            "description": "1 kg",
+            "price": "30",
             "chipsid": "S1",
-            "edescription": " m",
+            "edescription": "good quality salt for household use purely veg",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030574.jpg",
             "discount": "10",
-            "dprice": "270",
+            "dprice": "27",
             "poption": "Cash On Delivery is available ",
             "davailable": "Within Raebareli",
             "availability": "Available ",
-            "rpolicy": "Nil"
+            "rpolicy": "One day delivery"
         },
         {
             "name": "C",
