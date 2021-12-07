@@ -1,30 +1,44 @@
 [
         {
-            "name": "Roasted Chicken Fry",
-            "description": "1 Plate 4 Pieces",
-            "price": "90",
-            "chipsid": "Hot1",
-            "edescription": "Dispaly:6.1''  Dual SIM (Nano-SIM, dual stand-by)  Android 9.0 (Pie) Camera 8MP/5MP with flash 3.5mm 4000 MaH Battery",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/rostedchicken_kohHzqGF_.jpg",
+            "name": "ke",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "S1",
+            "edescription": " m",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701030574.jpg",
             "discount": "10",
-            "dprice": "81",
+            "dprice": "270",
             "poption": "Cash On Delivery is available ",
-            "davailable": "Only in Raebareli",
+            "davailable": "Within Raebareli",
             "availability": "Available ",
-            "rpolicy": "Be Satisfied"
+            "rpolicy": "Nil"
         },
         {
-            "name": "Chicken Fry",
-            "description": "1 Plate 1 Leg and 4 Pieces",
-            "price": "90",
-            "chipsid": "Hot2",
-            "edescription": "b",
-            "cimg": "https://ik.imagekit.io/kbwmwsaq15/chickenfry_C0t4Pj-DAy.jpg",
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "S2",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg",
             "discount": "10",
-            "dprice": "81",
+            "dprice": "270",
             "poption": "Cash On Delivery is available ",
-            "davailable": "Only in Raebareli",
+            "davailable": "Within Raebareli",
             "availability": "Available ",
-            "rpolicy": "Be Satisfied"
+            "rpolicy": "Nil"
+        },
+        {
+            "name": "C",
+            "description": "500 gm",
+            "price": "300",
+            "chipsid": "S3",
+            "edescription": "d",
+            "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg",
+            "discount": "10",
+            "dprice": "270",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
-]
+    ]
