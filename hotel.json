@@ -1,7 +1,7 @@
 [
         {
             "name": "Saffola Less Sodium Salt Plus",
-            "description": "1 kg",
+            "description": "1 Kg",
             "price": "30",
             "chipsid": "S1",
             "edescription": "good quality salt for household use purely veg",
@@ -14,31 +14,31 @@
             "rpolicy": "One day delivery"
         },
         {
-            "name": "C",
-            "description": "500 gm",
-            "price": "300",
+            "name": "Tata Salt",
+            "description": "1 Kg",
+            "price": "30",
             "chipsid": "S2",
-            "edescription": "d",
+            "edescription": "Good quality salt for daily uses with iodene",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701001206.jpg",
             "discount": "10",
-            "dprice": "270",
+            "dprice": "27",
             "poption": "Cash On Delivery is available ",
             "davailable": "Within Raebareli",
             "availability": "Available ",
-            "rpolicy": "Nil"
+            "rpolicy": "One day delivery"
         },
         {
-            "name": "C",
-            "description": "500 gm",
-            "price": "300",
+            "name": "Suger",
+            "description": "1 Kg",
+            "price": "45",
             "chipsid": "S3",
-            "edescription": "d",
+            "edescription": "Good quality Suger Purely Veg",
             "cimg": "https://ik.imagekit.io/bfrs/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/70011701022867_8.jpg",
             "discount": "10",
-            "dprice": "270",
+            "dprice": "41",
             "poption": "Cash On Delivery is available ",
             "davailable": "Within Raebareli",
-            "availability": "Available ",
-            "rpolicy": "Nil"
+            "availability": "Available",
+            "rpolicy": "One day delivery"
         }
     ]
