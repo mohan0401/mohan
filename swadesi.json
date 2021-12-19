@@ -26,18 +26,18 @@
             "davailable": "Within Raebareli",
             "availability": "Available in One day Delivery",
             "rpolicy": "Nil"
-        }
+        },
         {
-            "name": "Besan ",
-            "description": "500 gmm",
+            "name": "Besan",
+            "description": "500 gm",
             "price": "40",
             "chipsid": "SW3",
             "edescription": "Purely Veg",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/IMG-20211219-WA0009_rIK36RFP4.jpg",
             "discount": "5",
             "dprice": "38",
-            "poption": "Cash On Delivery is available ",
-            "davailable": "Within 2 km ",
+            "poption": "Cash On Delivery is available",
+            "davailable": "Within 2 km",
             "availability": "Available in One day Delivery",
             "rpolicy": "Nil"
         }
