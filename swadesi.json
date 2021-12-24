@@ -40,6 +40,20 @@
             "davailable": "Within 2 km",
             "availability": "Available in One day Delivery",
             "rpolicy": "Nil"
+        },
+         {
+            "name": "Toor Dal",
+            "description": "1 kg",
+            "price": "95",
+            "chipsid": "SW4",
+            "edescription": "Purely Veg",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/Dal_and_Pulses_/WhatsApp_Image_2021-12-23_at_4.11.40_PM_SiTiSF6mcFG7.jpeg",
+            "discount": "0",
+            "dprice": "95",
+            "poption": "Cash On Delivery is available",
+            "davailable": "Within 2 km",
+            "availability": "Available in One day Delivery",
+            "rpolicy": "Nil"
         }
     ]
 
