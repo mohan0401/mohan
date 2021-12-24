@@ -40,5 +40,19 @@
             "davailable": "Within Raebareli",
             "availability": "Available",
             "rpolicy": "One day delivery"
+        },
+        {
+            "name": "White Suger",
+            "description": "1 Kg",
+            "price": "40",
+            "chipsid": "S4",
+            "edescription": "Good quality White Suger Purely Veg",
+            "cimg": "https://ik.imagekit.io/kbwmwsaq15/white_sugar_1_kg_tBxhGwHMAzcr.jpeg",
+            "discount": "0",
+            "dprice": "40",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available",
+            "rpolicy": "One day delivery"
         }
     ]
