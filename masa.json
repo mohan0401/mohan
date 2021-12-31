@@ -529,6 +529,47 @@
             "davailable": "Within Raebareli",
             "availability": "Available ",
             "rpolicy": "Nil"
+        },
+         {
+            "name": "Everest Kutilal Chilli Powder",
+            "description": "500 gm",
+            "price": "235",
+            "chipsid": "M38",
+            "edescription": "If you want to add that extra spice and flavor to your indian food. It is a must-have product in every kitchen.",
+            "cimg": "https://ik.imagekit.io/szjygawxdz/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011912090848.jpg",
+            "discount": "10",
+            "dprice": "212",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
+        },
+        {
+            "name": "Tata Sampann Naturally Rich Chilli Powder",
+            "description": "100 gm",
+            "price": "50",
+            "chipsid": "M38",
+            "edescription": "Made of select varieties of naturally rich ingredients and with the formulation of chef sanjeev kapoor, Tata sampann masalas add mouth-watering taste to your food.",
+            "cimg": "https://ik.imagekit.io/szjygawxdz/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701037718.jpg",
+            "discount": "4",
+            "dprice": "48",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
+        },
+        {
+            "name": "Ching's Secret Paneer Chilli Masala",
+            "description": "20 gm",
+            "price": "10",
+            "chipsid": "M36",
+            "edescription": "No added preservatives",
+            "cimg": "https://ik.imagekit.io/szjygawxdz/tr:w-600,h-600,pr-true,cm-pad_resize,bg-FFFFFF/image_humarashop/data/60011701021430.jpg",
+            "discount": "0",
+            "dprice": "10",
+            "poption": "Cash On Delivery is available ",
+            "davailable": "Within Raebareli",
+            "availability": "Available ",
+            "rpolicy": "Nil"
         }
-        
-    ]
+        ]
