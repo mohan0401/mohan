@@ -1,6 +1,6 @@
 [
         {
-            "name": "Raag Gold Refined Palmolein Oil",
+            "name": "Patanjali Musturd Oil",
             "description": "1 Liter",
             "price": "145",
             "chipsid": "BK1",
@@ -14,7 +14,7 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Dalda Refined Groundnut Oil",
+            "name": "Fortune Kacchi Ghani Mustard Oil",
             "description": "1 Liter",
             "price": "235",
             "chipsid": "BK2",
@@ -28,7 +28,7 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Engine Brand Kachi Ghani Mustard Oil",
+            "name": "Fortune Soya Bean Oil",
             "description": "5 Liter",
             "price": "1152",
             "chipsid": "BK3",
