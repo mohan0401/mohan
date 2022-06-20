@@ -1,10 +1,10 @@
 [
         {
             "name": "Patanjali Atta",
-            "description ": "5 kg",
+            "description": "5 kg",
             "price": "200",
             "chipsid": "F1",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/ashirvad_5_kg_HMlWM9qSE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630292",
             "discount": "10",
             "dprice": "180",
@@ -15,10 +15,10 @@
         },
         {
             "name": "Patanjali Atta",
-            "description ": "10 kg",
+            "description": "10 kg",
             "price": "350",
             "chipsid": "F2",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/patanjali_AuiwrAKQU.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716633370",
             "discount": "0",
             "dprice": "350",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Asirbad Atta ",
-            "description ": "5 kg",
+            "name": "Asirbad Atta",
+            "description": "5 kg",
             "price": "210",
             "chipsid": "F3",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/ashirvad_5_kg_HMlWM9qSE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630292",
             "discount": "9",
             "dprice": "191",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Asirbad Atta ",
-            "description ": "10 kg",
+            "name": "Asirbad Atta",
+            "description": "10 kg",
             "price": "390",
             "chipsid": "F4",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/ashirvad_10kg_lrNpBU6Lh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630251",
             "discount": "5",
             "dprice": "371",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Fortune Atta ",
-            "description ": "5 kg",
+            "name": "Fortune Atta",
+            "description": "5 kg",
             "price": "175",
             "chipsid": "F5",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/fortune_jkc3G7oQKK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630585",
             "discount": "3",
             "dprice": "170",
@@ -71,10 +71,10 @@
         },
         {
             "name": "Fortune Atta ",
-            "description ": "10 kg",
+            "description": "10 kg",
             "price": "320",
             "chipsid": "F6",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/fortune_jkc3G7oQKK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630585",
             "discount": "5",
             "dprice": "304",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Lala Bhai Besan ",
-            "description ": "500 grm",
+            "name": "Lala Bhai Besan",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "F7",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/lala_beshan_AN-MaFws6z.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630953",
             "discount": "33",
             "dprice": "40",
@@ -98,11 +98,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Lala Bhai Besan ",
-            "description ": "1 kg",
+            "name": "Lala Bhai Besan",
+            "description": "1 kg",
             "price": "120",
             "chipsid": "F8",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/lala_beshan2__Fzwp55Kg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716998020",
             "discount": "0",
             "dprice": "120",
@@ -112,11 +112,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Maida ",
-            "description ": "500 grm",
+            "name": "Maida",
+            "description": "500 grm",
             "price": "20",
             "chipsid": "F9",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/maida_zvTwjdzXZ.jfif?ik-sdk-version=javascript-1.4.3&updatedAt=1655716631606",
             "discount": "0",
             "dprice": "20",
@@ -126,11 +126,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Maida ",
-            "description ": "1 Kg",
+            "name": "Maida",
+            "description": "1 Kg",
             "price": "40",
             "chipsid": "F10",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/maida_zvTwjdzXZ.jfif?ik-sdk-version=javascript-1.4.3&updatedAt=1655716631606",
             "discount": "0",
             "dprice": "40",
@@ -140,11 +140,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Rava ",
-            "description ": "500 grm",
+            "name": "Rava",
+            "description": "500 grm",
             "price": "30",
             "chipsid": "F11",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/rava_XYWl2NaHF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716633690",
             "discount": "0",
             "dprice": "30",
@@ -154,11 +154,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Rava ",
-            "description ": "1 kg",
+            "name": "Rava",
+            "description": "1 kg",
             "price": "60",
             "chipsid": "F12",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/rava_XYWl2NaHF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716633690",
             "discount": "0",
             "dprice": "60",
@@ -168,11 +168,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Chawal Atta ",
-            "description ": "500 grm",
+            "name": "Chawal Atta",
+            "description": "500 grm",
             "price": "20",
             "chipsid": "F13",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/chawal_ata_PfPOuv8c9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630362",
             "discount": "0",
             "dprice": "20",
@@ -182,11 +182,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Chawal Atta ",
-            "description ": "1 kg",
+            "name": "Chawal Atta",
+            "description": "1 kg",
             "price": "40",
             "chipsid": "F14",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/chawal_ata_PfPOuv8c9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716630362",
             "discount": "0",
             "dprice": "40",
@@ -196,11 +196,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Makka Atta ",
-            "description ": "500 grm",
+            "name": "Makka Atta",
+            "description": "500 grm",
             "price": "25",
             "chipsid": "F15",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/Makka-Atta_HlHRr3yLd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716631888",
             "discount": "0",
             "dprice": "25",
@@ -210,11 +210,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Makka Atta ",
-            "description ": "1 kg",
+            "name": "Makka Atta",
+            "description": "1 kg",
             "price": "50",
             "chipsid": "F16",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/Makka-Atta_HlHRr3yLd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716631888",
             "discount": "10",
             "dprice": "45",
@@ -224,11 +224,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Soyabean Bari Small ",
-            "description ": "250 grm",
+            "name": "Soyabean Bari Small",
+            "description": "250 grm",
             "price": "35",
             "chipsid": "F17",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/mini-soya-bean-chunk-500x500_LbWP1M4go.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716632229",
             "discount": "14",
             "dprice": "30",
@@ -238,11 +238,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Soya bean Bari Small ",
-            "description ": "500 grm",
+            "name": "Soya bean Bari Small",
+            "description": "500 grm",
             "price": "70",
             "chipsid": "F18",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/nutrelia-500x500_g8PxYt89P.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716632701",
             "discount": "14",
             "dprice": "60",
@@ -252,11 +252,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Fortune Soya Bari ",
-            "description ": "500 grm",
+            "name": "Fortune Soya Bari",
+            "description": "500 grm",
             "price": "40",
             "chipsid": "F19",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/fortune_soya_chunks_ZCoeIph3s.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655717180585",
             "discount": "0",
             "dprice": "40",
@@ -266,11 +266,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Sabudana ",
-            "description ": "250 grm",
+            "name": "Sabudana",
+            "description": "250 grm",
             "price": "20",
             "chipsid": "F20",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/sabudana_b_LYsLjF6t.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716634054",
             "discount": "0",
             "dprice": "20",
@@ -280,11 +280,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Sabudana ",
-            "description ": "500 grm",
+            "name": "Sabudana",
+            "description": "500 grm",
             "price": "40",
             "chipsid": "F21",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/sabudana_b_LYsLjF6t.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716634054",
             "discount": "10",
             "dprice": "36",
@@ -294,11 +294,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Lijjat Papad ",
-            "description ": "1 pkt",
+            "name": "Lijjat Papad",
+            "description": "1 pkt",
             "price": "72",
             "chipsid": "F22",
-            "edescription": "man ",
+            "edescription": "man",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/atta/lijjat_0M-r9GErw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655716631216",
             "discount": "3",
             "dprice": "70",
