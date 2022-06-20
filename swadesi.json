@@ -1,10 +1,10 @@
 [
         {
-            "name": "Arhar Dal  711        ",
-            "description ": "1kg",
+            "name": "Arhar Dal 711",
+            "description": "1kg",
             "price": "120",
             "chipsid": "SW1",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/arhar_711_qFQae3rgv.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720107269",
             "discount": "8",
             "dprice": "110",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Arhar Dal.                 ",
-            "description ": "1kg",
+            "name": "Arhar Dal",
+            "description": "1kg",
             "price": "120",
             "chipsid": "SW2",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/Arhar_6jFor_3ldF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720107410",
             "discount": "18",
             "dprice": "98",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Moong Dal               ",
-            "description ": "500 grm",
+            "name": "Moong Dal",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "SW3",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/moong_khadi_8YKqc-nQHm.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720109842",
             "discount": "8",
             "dprice": "55",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Moong Dal.               ",
-            "description ": "1kg",
+            "name": "Moong Dal",
+            "description": "1kg",
             "price": "120",
             "chipsid": "SW4",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/moong_khadi_8YKqc-nQHm.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720109842",
             "discount": "8",
             "dprice": "110",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Urad Dal                   ",
-            "description ": "500 grm",
+            "name": "Urad Dal",
+            "description": "500 grm",
             "price": "80",
             "chipsid": "SW5",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/uraddal-2_0RxpwkqNAV.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720112580",
             "discount": "7",
             "dprice": "74",
@@ -70,11 +70,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Urad Dal                    ",
-            "description ": "1kg",
+            "name": "Urad Dal",
+            "description": "1kg",
             "price": "160",
             "chipsid": "SW6",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/uraddal-2_0RxpwkqNAV.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720112580",
             "discount": "6",
             "dprice": "150",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Masoor Dal Red      ",
-            "description ": "500 grm",
+            "name": "Masoor Dal Red",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "SW7",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/red-masoor-dal-500x500_qYuqmM1qw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720111299",
             "discount": "12",
             "dprice": "53",
@@ -98,11 +98,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Masoor Black Khadi ",
-            "description ": "500grm",
+            "name": "Masoor Black Khadi",
+            "description": "500grm",
             "price": "50",
             "chipsid": "SW8",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/masoor_black_slcTf3HH45.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720108694",
             "discount": "10",
             "dprice": "45",
@@ -112,11 +112,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Chana Dal                ",
-            "description ": "500 grm",
+            "name": "Chana Dal",
+            "description": "500 grm",
             "price": "75",
             "chipsid": "SW9",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/chana_dal_BiNqsF3WJ9.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720107883",
             "discount": "8",
             "dprice": "69",
@@ -126,11 +126,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Moong Dal Dhuli    ",
-            "description ": "500 grm",
+            "name": "Moong Dal Dhuli",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "SW10",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/moong_hLtfkJdDW.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720110099",
             "discount": "8",
             "dprice": "55",
@@ -140,11 +140,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Moong Khadi.         ",
-            "description ": "500 grm",
+            "name": "Moong Khadi",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "SW11",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/moong_khadi_8YKqc-nQHm.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720109842",
             "discount": "8",
             "dprice": "55",
@@ -154,11 +154,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Urad Khada             ",
-            "description ": "500 grm",
+            "name": "Urad Khada",
+            "description": "500 grm",
             "price": "65",
             "chipsid": "SW12",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/urad_khadi_Bl3eFHj88m.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720112154",
             "discount": "8",
             "dprice": "60",
@@ -168,11 +168,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Chhola Chana         ",
-            "description ": "500 grm",
+            "name": "Chhola Chana",
+            "description": "500 grm",
             "price": "55",
             "chipsid": "SW13",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/chola_chana_J3ld_2DDL.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720108251",
             "discount": "5",
             "dprice": "52",
@@ -182,11 +182,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Brown Chana          ",
-            "description ": "500 grm",
+            "name": "Brown Chana",
+            "description": "500 grm",
             "price": "38",
             "chipsid": "SW14",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/brown_chana_vxyGTVMafD.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720107533",
             "discount": "8",
             "dprice": "35",
@@ -196,11 +196,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Rajma                       ",
-            "description ": "500 grm",
+            "name": "Rajma",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "SW15",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/rajma_m44VNdxDv.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720111036",
             "discount": "8",
             "dprice": "55",
@@ -210,11 +210,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Mix Dal                    ",
-            "description ": "500 grm",
+            "name": "Mix Dal",
+            "description": "500 grm",
             "price": "60",
             "chipsid": "SW16",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/mix_dal_FTQ8BoxZb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655720108942",
             "discount": "8",
             "dprice": "55",
@@ -224,11 +224,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Moongfali Dana     ",
-            "description ": "500 grm",
+            "name": "Moongfali Dana",
+            "description": "500 grm",
             "price": "70",
             "chipsid": "SW17",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/moogfali_dana_O3rEjRmKE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720109319",
             "discount": "9",
             "dprice": "64",
@@ -238,11 +238,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Popcorn                  ",
-            "description ": "500 grm",
+            "name": "Popcorn",
+            "description": "500 grm",
             "price": "40",
             "chipsid": "SW18",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/pop_corn_sF6JyM3voS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720110613",
             "discount": "0",
             "dprice": "40",
@@ -252,11 +252,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "White Matar          ",
-            "description ": "1 kg",
+            "name": "White Matar",
+            "description": "1 kg",
             "price": "80",
             "chipsid": "SW19",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/white_matar_A0-ZjZuE7D.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720112976",
             "discount": "3",
             "dprice": "78",
@@ -266,11 +266,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Patanjali Daliya     ",
-            "description ": "500 grm",
+            "name": "Patanjali Daliya",
+            "description": "500 grm",
             "price": "50",
             "chipsid": "SW20",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/pulses_/patanjali_dalia_gpzfR3P6R.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655720110364",
             "discount": "0",
             "dprice": "50",
