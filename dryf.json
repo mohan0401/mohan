@@ -1,10 +1,10 @@
 [
         {
-            "name": "Coconut Powder      ",
-            "description ": "100 grm",
+            "name": "Coconut Powder",
+            "description": "100 grm",
             "price": "40",
             "chipsid": "D1",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/coconut_powder_Y2PNmikVa.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722490559",
             "discount": "20",
             "dprice": "32",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kismis                         ",
-            "description ": "100 grm",
+            "name": "Kismis",
+            "description": "100 grm",
             "price": "40",
             "chipsid": "D2",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/KISMIS-PREMIUM_3CbHaoLko.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722490833",
             "discount": "20",
             "dprice": "32",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Nariyal ( Gari )          ",
-            "description ": "100 grm",
+            "name": "Nariyal ( Gari )",
+            "description": "100 grm",
             "price": "30",
             "chipsid": "D3",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/sukha_nariyal1_wvmD8kWXZ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722491365",
             "discount": "8",
             "dprice": "28",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Chhohara                  ",
-            "description ": "100 grm",
+            "name": "Chhohara",
+            "description": "100 grm",
             "price": "40",
             "chipsid": "D4",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/chuhara-500x500_XgXztlrTr.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722490280",
             "discount": "10",
             "dprice": "36",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kaju                          ",
-            "description ": "100 grm",
+            "name": "Kaju",
+            "description": "100 grm",
             "price": "100",
             "chipsid": "D5",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/cashew_nut_premium_R69ScEcgY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722489828",
             "discount": "10",
             "dprice": "90",
@@ -70,11 +70,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Almond ( Badam )  ",
-            "description ": "100 grm",
+            "name": "Almond ( Badam )",
+            "description": "100 grm",
             "price": "80",
             "chipsid": "D6",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/almond--badam---california-578268_l_uzatDdYL6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722489747",
             "discount": "7",
             "dprice": "74",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Makhana ",
-            "description ": "250 grm",
+            "name": "Makhana",
+            "description": "250 grm",
             "price": "200",
             "chipsid": "D7",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/fruits_and_nuts/makhana_Nhy-ZKVmy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722491093",
             "discount": "10",
             "dprice": "180",
