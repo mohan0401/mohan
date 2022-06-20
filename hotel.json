@@ -1,10 +1,10 @@
 [
         {
             "name": "White Sugar",
-            "description ": "1 kg",
+            "description": "1 kg",
             "price": "42",
             "chipsid": "S1",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/white-sugar-500x500__-3sdt3HN.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722082821                    ",
             "discount": "4",
             "dprice": "40",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Gud ( Jaggery )           ",
+            "name": "Gud (Jaggery)",
             "description ": "1 kg",
             "price": "55",
             "chipsid": "S2",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/Gud_WJ_gGpztR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722080886",
             "discount": "9",
             "dprice": "50",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Tata Salt                      ",
-            "description ": "1 kg",
+            "name": "Tata Salt",
+            "description": "1 kg",
             "price": "24",
             "chipsid": "S3",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/WhatsApp_Image_2022-06-01_at_5.00.09_PM__1__GG9TZBFT3.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722082487",
             "discount": "8",
             "dprice": "22",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Patanjali Salt              ",
-            "description ": "1  kg",
+            "name": "Patanjali Salt",
+            "description": "1  kg",
             "price": "15",
             "chipsid": "S4",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/patanjalisalt_xooKMjj99K.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722081818",
             "discount": "0",
             "dprice": "15",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Sendha Namak ",
-            "description ": "100 gm ",
+            "name": "Sendha Namak",
+            "description": "100 gm",
             "price": "20",
             "chipsid": "S5",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/sendha_namak_eUiYt6K_A.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722082397",
             "discount": "5",
             "dprice": "19",
@@ -70,11 +70,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kala Namak ",
-            "description ": "100 gm ",
+            "name": "Kala Namak",
+            "description": "100 gm",
             "price": "20",
             "chipsid": "S6",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/kala_namak_A8nm1Bb4t.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722081021",
             "discount": "5",
             "dprice": "19",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Mishri                         ",
-            "description ": "250 grm",
+            "name": "Mishri",
+            "description": "250 grm",
             "price": "20",
             "chipsid": "S7",
-            "edescription": "Quality Verified ",
+            "edescription": "Quality Verified",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Salt___Sugar_/mishri_Ynq7XDTw1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722081361",
             "discount": "5",
             "dprice": "19",
