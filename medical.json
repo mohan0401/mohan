@@ -1,10 +1,10 @@
 [
         {
-            "name": "Amul Butter ",
-            "description ": "100 grm",
+            "name": "Amul Butter",
+            "description": "100 grm",
             "price": "60",
             "chipsid": "ME1",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/amul_gJfwHpszJ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655722628322",
             "discount": "10",
             "dprice": "54",
