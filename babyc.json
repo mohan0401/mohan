@@ -1,10 +1,10 @@
 [
         {
-            "name": "Himalaya Neem Face wash ",
-            "description ": "50 ml ",
+            "name": "Himalaya Neem Face wash",
+            "description": "50 ml",
             "price": "20",
             "chipsid": "E1",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/himalaya_50ml_rJlk_tMgi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723106272",
             "discount": "10",
             "dprice": "18",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Himalaya Neem Face wash ",
-            "description ": "100 ml",
+            "name": "Himalaya Neem Face wash",
+            "description": "100 ml",
             "price": "30",
             "chipsid": "E2",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/himalaya_100ml_VH-m4KSCU.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723106563",
             "discount": "20",
             "dprice": "24",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Dabur Gulabri ",
-            "description ": "30 ml",
+            "name": "Dabur Gulabri",
+            "description": "30 ml",
             "price": "20",
             "chipsid": "E3",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/gulabari_SgWIem-b2.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723106006",
             "discount": "20",
             "dprice": "16",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Dabur Amla Oil ",
-            "description ": "90 ml",
+            "name": "Dabur Amla Oil",
+            "description": "90 ml",
             "price": "60",
             "chipsid": "E4",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/dabar_amla_mmQxnSqtd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723105550",
             "discount": "10",
             "dprice": "54",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Dabur Amla oil ",
-            "description ": "180 ml",
+            "name": "Dabur Amla oil",
+            "description": "180 ml",
             "price": "120",
             "chipsid": "E5",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/dabar_amla_mmQxnSqtd.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723105550",
             "discount": "10",
             "dprice": "108",
@@ -70,11 +70,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Bajaj Almond oil ",
-            "description ": "100 ml",
+            "name": "Bajaj Almond oil",
+            "description": "100 ml",
             "price": "180",
             "chipsid": "E6",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/bajaj_almonds_ymfLDqA8D.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723105449",
             "discount": "10",
             "dprice": "162",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Bajaj Almond oil ",
-            "description ": "150 ml ",
+            "name": "Bajaj Almond oil",
+            "description": "150 ml ",
             "price": "170",
             "chipsid": "E7",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/bajaj_almonds_ymfLDqA8D.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723105449",
             "discount": "10",
             "dprice": "153",
@@ -99,10 +99,10 @@
         },
         {
             "name": "Parachute Coconut oil ",
-            "description ": "100 ml",
+            "description": "100 ml",
             "price": "30",
             "chipsid": "E8",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/paracute_6Nt77SN1C.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723106875",
             "discount": "10",
             "dprice": "27",
@@ -112,11 +112,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Parachute Coconut oil ",
-            "description ": "200 ml ",
+            "name": "Parachute Coconut oil",
+            "description": "200 ml ",
             "price": "60",
             "chipsid": "E9",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Beautypersonalcare_/paracute_6Nt77SN1C.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723106875",
             "discount": "10",
             "dprice": "54",
