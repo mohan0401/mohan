@@ -1,10 +1,10 @@
 [
         {
-            "name": "Rin Detergent ",
-            "description ": "100 grm ",
+            "name": "Rin Detergent",
+            "description": "100 grm",
             "price": "10",
             "chipsid": "R31",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/rin-detergent-cake-500x500_v2qQzWVfl.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718845146",
             "discount": "0",
             "dprice": "10",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Surf Excel Detergent ",
-            "description ": "100 grm ",
+            "name": "Surf Excel Detergent",
+            "description": "100 grm",
             "price": "10",
             "chipsid": "R32",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/surf-excel-detergent-cake-150-gm-2_qTKj50l0c.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718846613",
             "discount": "0",
             "dprice": "10",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Rin Powder ",
-            "description ": "500 grm",
+            "name": "Rin Powder",
+            "description": "500 grm",
             "price": "78",
             "chipsid": "R33",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/rinpowder_Qc4UPW2DX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718845415",
             "discount": "3",
             "dprice": "76",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Surf Excel Easy Wash ",
-            "description ": "500grm",
+            "name": "Surf Excel Easy Wash",
+            "description": "500grm",
             "price": "60",
             "chipsid": "R34",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/surfeasywash_kW5tpQp-G.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718845681",
             "discount": "3",
             "dprice": "58",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Dove Original ",
-            "description ": "50  grm",
+            "name": "Dove Original",
+            "description": "50  grm",
             "price": "25",
             "chipsid": "R35",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/dove_6KW9Ibds9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718842046",
             "discount": "0",
             "dprice": "25",
@@ -70,11 +70,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Pears soap ",
-            "description ": "60 grm",
+            "name": "Pears soap",
+            "description": "60 grm",
             "price": "25",
             "chipsid": "R36",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/pears_h9f8miT9U.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718844239",
             "discount": "0",
             "dprice": "25",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Patanjali Neem ",
-            "description ": "100 grm ",
+            "name": "Patanjali Neem",
+            "description": "100 grm",
             "price": "18",
             "chipsid": "R37",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/patanjali_neem_urxtWywNF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655718844021",
             "discount": "0",
             "dprice": "18",
@@ -98,11 +98,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Patanjali Alovera Soap ",
-            "description ": "100 grm ",
+            "name": "Patanjali Alovera Soap",
+            "description": "100 grm",
             "price": "18",
             "chipsid": "R38",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/patanjali_aloeveera_DV1bmEicz.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718843301",
             "discount": "0",
             "dprice": "18",
@@ -112,11 +112,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Patanjali Paste ",
-            "description ": "100 grm",
+            "name": "Patanjali Paste",
+            "description": "100 grm",
             "price": "50",
             "chipsid": "R39",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/patanjali_dantkanti_Ysq2zYHjn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718843712",
             "discount": "0",
             "dprice": "50",
@@ -126,11 +126,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Colgate Paste ",
-            "description ": "100 grm ",
+            "name": "Colgate Paste",
+            "description": "100 grm",
             "price": "50",
             "chipsid": "R310",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/coalgate_X79zZNeIO.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718841836",
             "discount": "0",
             "dprice": "50",
@@ -140,11 +140,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Pepsodent Toothpaste ",
-            "description ": "125g",
+            "name": "Pepsodent Toothpaste",
+            "description": "125g",
             "price": "52",
             "chipsid": "R311",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/Pepsodent-Toothpaste-190g-T-White-Cavity-Fighter_dVPb5fhHX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718844674",
             "discount": "0",
             "dprice": "52",
@@ -154,11 +154,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Dabur ",
-            "description ": "150grm ",
+            "name": "Dabur",
+            "description": "150grm",
             "price": "45",
             "chipsid": "R312",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/56-red-paste_nTCsFHrWy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655718841713",
             "discount": "0",
             "dprice": "45",
@@ -168,11 +168,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Harpic Toilet Cleaner ",
-            "description ": "200ml",
+            "name": "Harpic Toilet Cleaner",
+            "description": "200ml",
             "price": "50",
             "chipsid": "R313",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/harpic_XaAZ5r3r-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718842968",
             "discount": "0",
             "dprice": "50",
@@ -183,10 +183,10 @@
         },
         {
             "name": "Vim Dishwash Bar",
-            "description ": "100 grm",
+            "description": "100 grm",
             "price": "10",
             "chipsid": "R314",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/vim_u4XzBVXT7C.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718846958",
             "discount": "0",
             "dprice": "10",
@@ -196,11 +196,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Harpic ",
-            "description ": "200 ml",
+            "name": "Harpic",
+            "description": "200 ml",
             "price": "40",
             "chipsid": "R315",
-            "edescription": "Best in Quality ",
+            "edescription": "Best in Quality",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/House_hold/harpic_room_4k-SRnVCX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655718842725",
             "discount": "0",
             "dprice": "40",
