@@ -1,10 +1,10 @@
 [
         {
-            "name": "Tata Tea Agni ",
-            "description ": "100 grm",
+            "name": "Tata Tea Agni",
+            "description": "100 grm",
             "price": "150",
             "chipsid": "B1",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/tata_agni_d1DMmKDcG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723900684",
             "discount": "12",
             "dprice": "132",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Tata Tea Agni ",
-            "description ": "250 grm",
+            "name": "Tata Tea Agni",
+            "description": "250 grm",
             "price": "260",
             "chipsid": "B2",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/tata_agni_d1DMmKDcG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723900684",
             "discount": "10",
             "dprice": "234",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "TataTea Premium ",
-            "description ": "100grm",
+            "name": "TataTea Premium",
+            "description": "100grm",
             "price": "130",
             "chipsid": "B3",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/tata_tea_premium_g6pmKzlZ0k.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723900950",
             "discount": "8",
             "dprice": "120",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "TataTea Premium ",
-            "description ": "250grm",
+            "name": "TataTea Premium",
+            "description": "250grm",
             "price": "255",
             "chipsid": "B4",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/tata_tea_premium_g6pmKzlZ0k.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723900950",
             "discount": "2",
             "dprice": "250",
@@ -56,11 +56,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Taaza Masala Tea ",
-            "description ": "100grm",
+            "name": "Taaza Masala Tea",
+            "description": "100grm",
             "price": "120",
             "chipsid": "B5",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/taza_masala_tea_diLxNGv87.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723901184",
             "discount": "20",
             "dprice": "96",
@@ -70,11 +70,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Taaza Masala Tea ",
-            "description ": "250grm",
+            "name": "Taaza Masala Tea",
+            "description": "250grm",
             "price": "280",
             "chipsid": "B6",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/taza_masala_tea_diLxNGv87.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723901184",
             "discount": "10",
             "dprice": "252",
@@ -84,11 +84,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kissan Tomato Sauce ",
-            "description ": "200 ml ",
+            "name": "Kissan Tomato Sauce",
+            "description": "200 ml",
             "price": "20",
             "chipsid": "B7",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/kisan_catchup_Nrj_TDNjS.jfif?ik-sdk-version=javascript-1.4.3&updatedAt=1655723899776",
             "discount": "5",
             "dprice": "19",
@@ -98,11 +98,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kissan Tomato Sauce ",
-            "description ": "450 ml",
+            "name": "Kissan Tomato Sauce",
+            "description": "450 ml",
             "price": "60",
             "chipsid": "B8",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/kisan_catchup_Nrj_TDNjS.jfif?ik-sdk-version=javascript-1.4.3&updatedAt=1655723899776",
             "discount": "5",
             "dprice": "57",
@@ -112,11 +112,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kissan Mixed Fruit Jam ",
-            "description ": "100 ml ",
+            "name": "Kissan Mixed Fruit Jam",
+            "description": "100 ml ",
             "price": "30",
             "chipsid": "B9",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/kissan_fruit_JkYZGCkmh.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723900134",
             "discount": "12",
             "dprice": "26",
@@ -127,10 +127,10 @@
         },
         {
             "name": "Kissan Mixed Fruit Jam",
-            "description ": "200 ml ",
+            "description": "200 ml",
             "price": "60",
             "chipsid": "B10",
-            "edescription": "Best in class ",
+            "edescription": "Best in class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Bewwrages_and_drinks/kisan_200_oARaj_J-1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723899771",
             "discount": "15",
             "dprice": "51",
