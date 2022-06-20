@@ -1,10 +1,10 @@
 [
         {
-            "name": "Hawan Samagri ",
-            "description ": "250 grm",
+            "name": "Hawan Samagri",
+            "description": "250 grm",
             "price": "50",
             "chipsid": "R21",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pooja/hawan_samgri_RbImP_duN.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723472221",
             "discount": "5",
             "dprice": "48",
@@ -14,11 +14,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Hawan Samagri ",
-            "description ": "500 grm",
+            "name": "Hawan Samagri",
+            "description": "500 grm",
             "price": "100",
             "chipsid": "R22",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pooja/hawan_samgri_RbImP_duN.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723472221",
             "discount": "10",
             "dprice": "90",
@@ -28,11 +28,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Roli Kumkum ",
-            "description ": "100 gm ",
+            "name": "Roli Kumkum",
+            "description": "100 gm",
             "price": "20",
             "chipsid": "R23",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pooja/kumkum-dabbi-500x500_XfYtyPrxO.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723472762",
             "discount": "5",
             "dprice": "19",
@@ -42,11 +42,11 @@
             "rpolicy": "Nil"
         },
         {
-            "name": "Kapoor ",
-            "description ": "50 gm ",
+            "name": "Kapoor",
+            "description": "50 gm",
             "price": "30",
             "chipsid": "R24",
-            "edescription": "Best in Class ",
+            "edescription": "Best in Class",
             "cimg": "https://ik.imagekit.io/kbwmwsaq15/Pooja/kapoor_USPuLb0Zy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655723472315",
             "discount": "6",
             "dprice": "28",
